@@ -1,0 +1,7633 @@
+[
+ {
+  "id": "tt0133093",
+  "status": "watched",
+  "myRating": 10,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Matrix",
+  "englishTitle": "The Matrix",
+  "russianTitle": "Матрица",
+  "originalLanguage": "en",
+  "year": 1999,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Sci-Fi"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Lana Wachowski",
+   "Lilly Wachowski"
+  ],
+  "cast": [
+   "Keanu Reeves",
+   "Laurence Fishburne",
+   "Carrie-Anne Moss"
+  ],
+  "runtime": "136 min",
+  "imdbId": "tt0133093",
+  "imdbRating": 8.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A hacker discovers that everyday reality is a simulation run by machines and joins the rebels fighting to free humanity.",
+  "addedAt": "2026-10-31T09:07:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Matrix"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8359848",
+  "status": "watched",
+  "myRating": 10,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Climax",
+  "englishTitle": "Climax",
+  "russianTitle": "Экстаз",
+  "originalLanguage": "fr",
+  "year": 2018,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Horror",
+   "Music"
+  ],
+  "countries": [
+   "France",
+   "Belgium"
+  ],
+  "directors": [
+   "Gaspar Noé"
+  ],
+  "cast": [
+   "Sofia Boutella",
+   "Romain Guillermic",
+   "Souheila Yacoub"
+  ],
+  "runtime": "97 min",
+  "imdbId": "tt8359848",
+  "imdbRating": 6.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWQwOTVmNGQtNGU1Ny00ODNkLTkzMmMtYzY1ZWQyMzk0Y2ZiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Gaspar Noé’s fever dream: a dance troupe’s after-rehearsal party turns into a nightmare when someone spikes the sangria with LSD.",
+  "addedAt": "2026-10-31T09:08:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Climax"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0813541",
+  "status": "watched",
+  "myRating": 10,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Питер FM",
+  "englishTitle": "Piter FM",
+  "russianTitle": "Питер FM",
+  "originalLanguage": "ru",
+  "year": 2006,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Oksana Bychkova"
+  ],
+  "cast": [
+   "Ekaterina Fedulova",
+   "Evgeniy Tsyganov",
+   "Aleksey Barabash"
+  ],
+  "runtime": "85 min",
+  "imdbId": "tt0813541",
+  "imdbRating": 7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjBkMWI5OTEtYjA2NS00Y2FmLTg1MDEtNzNhMWVkNjBlYjE4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A radio DJ loses her phone in St. Petersburg, and she and the young architect who finds it keep missing each other all day.",
+  "addedAt": "2026-10-31T09:09:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Питер фм"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1191111",
+  "status": "watched",
+  "myRating": 9,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Enter the Void",
+  "englishTitle": "Enter the Void",
+  "russianTitle": "Вход в пустоту",
+  "originalLanguage": "en",
+  "year": 2009,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Fantasy"
+  ],
+  "countries": [
+   "France",
+   "Germany",
+   "Italy",
+   "Canada",
+   "Japan"
+  ],
+  "directors": [
+   "Gaspar Noé"
+  ],
+  "cast": [
+   "Nathaniel Brown",
+   "Paz de la Huerta",
+   "Cyril Roy"
+  ],
+  "runtime": "161 min",
+  "imdbId": "tt1191111",
+  "imdbRating": 7.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmUyYjM1YjUtYTVhZC00YzYwLThiYTMtZjE3ZmZmNzA2NDA4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "After a young drug dealer is shot in a Tokyo nightclub, his spirit drifts above the neon city, watching over his sister and reliving his life.",
+  "addedAt": "2026-10-31T09:10:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Enter the Void",
+   "Вход в пустоту"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt2278388",
+  "status": "watched",
+  "myRating": 9,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Grand Budapest Hotel",
+  "englishTitle": "The Grand Budapest Hotel",
+  "russianTitle": "Отель «Гранд Будапешт»",
+  "originalLanguage": "en",
+  "year": 2014,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States",
+   "Germany"
+  ],
+  "directors": [
+   "Wes Anderson"
+  ],
+  "cast": [
+   "Ralph Fiennes",
+   "F. Murray Abraham",
+   "Mathieu Amalric"
+  ],
+  "runtime": "100 min",
+  "imdbId": "tt2278388",
+  "imdbRating": 8.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_QL75_UX300_.jpg",
+  "description": "Wes Anderson’s caper: a legendary concierge and his loyal lobby boy get caught up in the theft of a priceless painting.",
+  "addedAt": "2026-10-31T09:11:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "The Grand Budapest Hotel"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt28429213",
+  "status": "watched",
+  "myRating": 9,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Слово пацана. Кровь на асфальте",
+  "englishTitle": "The Boy's Word: Blood on the Asphalt",
+  "russianTitle": "Слово пацана. Кровь на асфальте",
+  "originalLanguage": "ru",
+  "year": 2023,
+  "endYear": 2023,
+  "kind": "series",
+  "genres": [
+   "Drama",
+   "Crime"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Zhora Kryzhovnikov"
+  ],
+  "cast": [
+   "Ivan Yankovsky",
+   "Ruzil Minekaev",
+   "Leon Kemstach"
+  ],
+  "runtime": "52 min",
+  "imdbId": "tt28429213",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjkxMDY3MTEtNDhlNy00NmY5LThiNjQtMzEzYzllM2I4ZWMwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Kazan, late 1980s: a teenage boy from a good family is drawn into the brutal world of the street gangs that ruled the city.",
+  "addedAt": "2026-10-31T09:12:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Слово пацана"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0118799",
+  "status": "watched",
+  "myRating": 9,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "La vita è bella",
+  "englishTitle": "Life Is Beautiful",
+  "russianTitle": "Жизнь прекрасна",
+  "originalLanguage": "it",
+  "year": 1997,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "Italy"
+  ],
+  "directors": [
+   "Roberto Benigni"
+  ],
+  "cast": [
+   "Roberto Benigni",
+   "Nicoletta Braschi",
+   "Giorgio Cantarini"
+  ],
+  "runtime": "116 min",
+  "imdbId": "tt0118799",
+  "imdbRating": 8.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Roberto Benigni’s tragicomedy: a Jewish-Italian waiter uses humor and imagination to shield his young son from the horrors of a Nazi camp.",
+  "addedAt": "2026-10-31T09:13:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Life Is Beautiful (Бениньи)"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0816692",
+  "status": "watched",
+  "myRating": 9,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Interstellar",
+  "englishTitle": "Interstellar",
+  "russianTitle": "Интерстеллар",
+  "originalLanguage": "en",
+  "year": 2014,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Adventure",
+   "Sci-Fi"
+  ],
+  "countries": [
+   "United States",
+   "United Kingdom",
+   "Canada"
+  ],
+  "directors": [
+   "Christopher Nolan"
+  ],
+  "cast": [
+   "Matthew McConaughey",
+   "Anne Hathaway",
+   "Jessica Chastain"
+  ],
+  "runtime": "169 min",
+  "imdbId": "tt0816692",
+  "imdbRating": 8.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "With Earth dying, a former pilot leads a team through a wormhole in search of a new home for humanity.",
+  "addedAt": "2026-10-31T09:14:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Interstellar"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8772296",
+  "status": "watched",
+  "myRating": 9,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Euphoria",
+  "englishTitle": "Euphoria",
+  "russianTitle": "Эйфория",
+  "originalLanguage": "en",
+  "year": 2019,
+  "endYear": 2026,
+  "kind": "series",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "United States",
+   "Israel"
+  ],
+  "directors": [],
+  "cast": [
+   "Zendaya",
+   "Hunter Schafer",
+   "Maude Apatow"
+  ],
+  "runtime": "61 min",
+  "imdbId": "tt8772296",
+  "imdbRating": 8.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjVlN2M2N2MtOWViZC00MzIxLTlhZWEtMTIwNDIwMzE3ZWJiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A recovering teen addict and her friends navigate drugs, love, identity and trauma in a heightened, neon-lit high school.",
+  "addedAt": "2026-10-31T09:15:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "euphoria"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0099653",
+  "status": "watched",
+  "myRating": 9,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Ghost",
+  "englishTitle": "Ghost",
+  "russianTitle": "Привидение",
+  "originalLanguage": "en",
+  "year": 1990,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Jerry Zucker"
+  ],
+  "cast": [
+   "Patrick Swayze",
+   "Demi Moore",
+   "Whoopi Goldberg"
+  ],
+  "runtime": "127 min",
+  "imdbId": "tt0099653",
+  "imdbRating": 7.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjkwOWM2MWMtMWE1YS00MTBlLTg1ODctYTI3M2I0NGIxMGYyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A murdered banker’s spirit stays behind to protect his girlfriend, enlisting a reluctant psychic to expose his killers.",
+  "addedAt": "2026-10-31T09:16:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Ghost (1990)"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0211946",
+  "status": "watched",
+  "myRating": 9,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Berlin Calling",
+  "englishTitle": "Berlin Calling",
+  "russianTitle": null,
+  "originalLanguage": "de",
+  "year": 2008,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Music"
+  ],
+  "countries": [
+   "Germany"
+  ],
+  "directors": [
+   "Hannes Stöhr"
+  ],
+  "cast": [
+   "Paul Kalkbrenner",
+   "Rita Lengyel",
+   "Corinna Harfouch"
+  ],
+  "runtime": "105 min",
+  "imdbId": "tt0211946",
+  "imdbRating": 7.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTZhZmVmYzEtMzU3YS00NjA3LThkOGUtMDZhMThkODkyZjMzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A Berlin techno DJ (Paul Kalkbrenner) on the eve of his big album release lands in a psychiatric clinic after a drug-fueled breakdown.",
+  "addedAt": "2026-10-31T09:17:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Berlin calling"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt33764258",
+  "status": "watched",
+  "myRating": 9,
+  "recommendedBy": null,
+  "note": "Watched in IMAX",
+  "originalTitle": "The Odyssey",
+  "englishTitle": "The Odyssey",
+  "russianTitle": "Одиссея",
+  "originalLanguage": "en",
+  "year": 2026,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Fantasy"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States",
+   "Canada",
+   "New Zealand",
+   "Iceland"
+  ],
+  "directors": [
+   "Christopher Nolan"
+  ],
+  "cast": [
+   "Matt Damon",
+   "Tom Holland",
+   "Anne Hathaway"
+  ],
+  "runtime": "173 min",
+  "imdbId": "tt33764258",
+  "imdbRating": 8.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Christopher Nolan’s epic adaptation of Homer: Odysseus’s long and perilous voyage home after the Trojan War.",
+  "addedAt": "2026-10-31T09:18:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Одиссея (IMAX)",
+   "Odyssey"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0209144",
+  "status": "watched",
+  "myRating": 8,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Memento",
+  "englishTitle": "Memento",
+  "russianTitle": "Помни",
+  "originalLanguage": "en",
+  "year": 2000,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Mystery",
+   "Thriller"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Christopher Nolan"
+  ],
+  "cast": [
+   "Guy Pearce",
+   "Carrie-Anne Moss",
+   "Joe Pantoliano"
+  ],
+  "runtime": "113 min",
+  "imdbId": "tt0209144",
+  "imdbRating": 8.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGQ3Y2Q4NjktN2E4Ny00Y2Q2LTliZDUtZTNiNjRhY2I0NGIyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A man who can’t form new memories hunts his wife’s killer with tattoos, notes and Polaroids — a story told in reverse.",
+  "addedAt": "2026-10-31T09:19:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Memento",
+   "Память memento",
+   "Amnesia (Помни)"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt2866360",
+  "status": "watched",
+  "myRating": 8,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Coherence",
+  "englishTitle": "Coherence",
+  "russianTitle": "Связь",
+  "originalLanguage": "en",
+  "year": 2013,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Mystery",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "countries": [
+   "United States",
+   "United Kingdom"
+  ],
+  "directors": [
+   "James Ward Byrkit"
+  ],
+  "cast": [
+   "Emily Baldoni",
+   "Maury Sterling",
+   "Nicholas Brendon"
+  ],
+  "runtime": "89 min",
+  "imdbId": "tt2866360",
+  "imdbRating": 7.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3ODUzNDY2M15BMl5BanBnXkFtZTgwNzg0ODY2MTE@._V1_QL75_UX300_.jpg",
+  "description": "On the night a comet passes overhead, eight friends at a dinner party experience a strange fracture in reality.",
+  "addedAt": "2026-10-31T09:20:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Coherence"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt5649144",
+  "status": "watched",
+  "myRating": 8,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Florida Project",
+  "englishTitle": "The Florida Project",
+  "russianTitle": "Проект «Флорида»",
+  "originalLanguage": "en",
+  "year": 2017,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Sean Baker"
+  ],
+  "cast": [
+   "Brooklynn Prince",
+   "Bria Vinaite",
+   "Willem Dafoe"
+  ],
+  "runtime": "112 min",
+  "imdbId": "tt5649144",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDBhM2MxYjAtMWFiYy00MWMwLThkMDYtN2M1ZWY3NjkxNGExXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A six-year-old and her friends spend a summer of mischief at a budget motel near Disney World while her young mother struggles to get by.",
+  "addedAt": "2026-10-31T09:21:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "The Florida Project"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt14536120",
+  "status": "watched",
+  "myRating": 8,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Мастер и Маргарита",
+  "englishTitle": "The Master and Margarita",
+  "russianTitle": "Мастер и Маргарита",
+  "originalLanguage": "ru",
+  "year": 2024,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Michael Lockshin"
+  ],
+  "cast": [
+   "August Diehl",
+   "Yulia Snigir",
+   "Evgeniy Tsyganov"
+  ],
+  "runtime": "157 min",
+  "imdbId": "tt14536120",
+  "imdbRating": 7.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmRmZDE1NmItZWZhZi00MTczLTllZDAtMDczNjAwNjI3MjQwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A blacklisted writer in 1930s Moscow writes a novel in which the Devil visits the city — and fiction starts bleeding into reality.",
+  "addedAt": "2026-10-31T09:22:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Мастер и маргарита"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0322420",
+  "status": "watched",
+  "myRating": 8,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Život je čudo",
+  "englishTitle": "Life Is a Miracle",
+  "russianTitle": "Жизнь как чудо",
+  "originalLanguage": "sr",
+  "year": 2004,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Romance",
+   "Music"
+  ],
+  "countries": [
+   "Serbia",
+   "France",
+   "Italy"
+  ],
+  "directors": [
+   "Emir Kusturica"
+  ],
+  "cast": [
+   "Slavko Stimac",
+   "Nataša Tapuškovic",
+   "Vesna Trivalic"
+  ],
+  "runtime": "155 min",
+  "imdbId": "tt0322420",
+  "imdbRating": 7.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWJhMGQwNzktNDQ5MC00ZDI4LWEwYzctMGMwNDM3YTQzMjRlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Emir Kusturica’s tragicomedy: during the Bosnian war, a Serbian railway engineer falls for the Muslim hostage he’s meant to trade for his captured son.",
+  "addedAt": "2026-10-31T09:23:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Life Is a Miracle (Кустурица)",
+   "Life is amiracle kusturica"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0314331",
+  "status": "watched",
+  "myRating": 8,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Love Actually",
+  "englishTitle": "Love Actually",
+  "russianTitle": "Реальная любовь",
+  "originalLanguage": "en",
+  "year": 2003,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United Kingdom",
+   "France",
+   "United States"
+  ],
+  "directors": [
+   "Richard Curtis"
+  ],
+  "cast": [
+   "Hugh Grant",
+   "Martine McCutcheon",
+   "Liam Neeson"
+  ],
+  "runtime": "135 min",
+  "imdbId": "tt0314331",
+  "imdbRating": 7.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Ten intertwined London love stories unfold in the weeks before Christmas.",
+  "addedAt": "2026-10-31T09:24:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Love actually"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt31728330",
+  "status": "watched",
+  "myRating": 8,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "They Will Kill You",
+  "englishTitle": "They Will Kill You",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2026,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Comedy",
+   "Horror"
+  ],
+  "countries": [
+   "United States",
+   "South Africa",
+   "Canada"
+  ],
+  "directors": [
+   "Kirill Sokolov"
+  ],
+  "cast": [
+   "Zazie Beetz",
+   "Patricia Arquette",
+   "Myha'la"
+  ],
+  "runtime": "94 min",
+  "imdbId": "tt31728330",
+  "imdbRating": 6.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BODIzZGNhNGUtOWM2My00ODM4LThmOWQtNTkzMzYwMTZhYzU1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Kirill Sokolov’s gory horror-comedy: a young woman fights for her life against a murderous cult in a New York high-rise.",
+  "addedAt": "2026-10-31T09:25:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "This Will Kill You"
+  ],
+  "needsReview": true,
+  "reviewNote": "Obsidian says “This Will Kill You” — matched to Kirill Sokolov’s 2026 horror-comedy “They Will Kill You”.",
+  "hidden": false
+ },
+ {
+  "id": "tt0125439",
+  "status": "watched",
+  "myRating": 7,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Notting Hill",
+  "englishTitle": "Notting Hill",
+  "russianTitle": "Ноттинг Хилл",
+  "originalLanguage": "en",
+  "year": 1999,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [
+   "Roger Michell"
+  ],
+  "cast": [
+   "Hugh Grant",
+   "Julia Roberts",
+   "Richard McCabe"
+  ],
+  "runtime": "124 min",
+  "imdbId": "tt0125439",
+  "imdbRating": 7.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjY3YWI5OTMtYTdlNy00ZTZiLWEwYjItN2M1MGVkMDM4ZDExXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A London bookshop owner’s quiet life is turned upside down when the world’s biggest movie star walks into his shop.",
+  "addedAt": "2026-10-31T09:26:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Nottjng hill"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8730716",
+  "status": "watched",
+  "myRating": 7,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Pick It Up! Ska in the '90s",
+  "englishTitle": "Pick It Up!: Ska in the '90s",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2019,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary",
+   "Music"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Taylor Morden"
+  ],
+  "cast": [
+   "Tim Armstrong",
+   "Benji Aflalo",
+   "Joey Altruda"
+  ],
+  "runtime": "100 min",
+  "imdbId": "tt8730716",
+  "imdbRating": 8.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzYyZTIxYmEtMWRiMC00NWYwLTg1MjQtYmEyNTQ4NGIwZjA5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Documentary about the 1990s third-wave ska boom, with No Doubt, Reel Big Fish, Less Than Jake and the Mighty Mighty Bosstones.",
+  "addedAt": "2026-10-31T09:27:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Pick It Up"
+  ],
+  "needsReview": true,
+  "reviewNote": "Obsidian only says “Pick It Up” — matched to the 2019 ska documentary; please check.",
+  "hidden": false
+ },
+ {
+  "id": "tt2275743",
+  "status": "watched",
+  "myRating": 7,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Berlin, I Love You",
+  "englishTitle": "Berlin, I Love You",
+  "russianTitle": "Берлин, я люблю тебя",
+  "originalLanguage": "en",
+  "year": 2019,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "Germany"
+  ],
+  "directors": [
+   "Dianna Agron",
+   "Peter Chelsom",
+   "Claus Clausen"
+  ],
+  "cast": [
+   "Keira Knightley",
+   "Helen Mirren",
+   "Luke Wilson"
+  ],
+  "runtime": "120 min",
+  "imdbId": "tt2275743",
+  "imdbRating": 4.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTJlNmQ1NDctMTJlNS00NDY4LWE0NDItNTVmMTQ4M2NkZWU0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "An anthology of short love stories set in contemporary Berlin, part of the “Cities of Love” series.",
+  "addedAt": "2026-10-31T09:28:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Берлин, я люблю тебя"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0114429",
+  "status": "watched",
+  "myRating": 7,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Ширли-мырли",
+  "englishTitle": "Shirli-myrli",
+  "russianTitle": "Ширли-мырли",
+  "originalLanguage": "ru",
+  "year": 1995,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Vladimir Menshov"
+  ],
+  "cast": [
+   "Valeriy Garkalin",
+   "Vera Alentova",
+   "Inna Churikova"
+  ],
+  "runtime": "143 min",
+  "imdbId": "tt0114429",
+  "imdbRating": 7.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGIwYThkNmEtNjcyZC00NmJkLTlkOWEtMmFiNDc4Nzk4MDE4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Vladimir Menshov’s farce: a giant diamond turns up in Yakutia, and a petty swindler’s long-lost identical brothers send the whole country into chaos.",
+  "addedAt": "2026-10-31T09:29:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Ширли мырли"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1224449",
+  "status": "watched",
+  "myRating": 7,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Плюс один",
+  "englishTitle": "Plus One",
+  "russianTitle": "Плюс один",
+  "originalLanguage": "ru",
+  "year": 2008,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Romance"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Oksana Bychkova"
+  ],
+  "cast": [
+   "Madlen Dzhabrailova",
+   "Jethro Skinner",
+   "Vladimir Ilin"
+  ],
+  "runtime": "96 min",
+  "imdbId": "tt1224449",
+  "imdbRating": 6.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzZlZDQ1ZDAtNGQ0ZS00N2MzLWExOWItMDE4NGVmZjAyMTQ4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Oksana Bychkova’s romantic comedy about a buttoned-up Moscow translator and the carefree English clown she has to look after.",
+  "addedAt": "2026-10-31T09:30:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Плюс один"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt6723592",
+  "status": "watched",
+  "myRating": 7,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Tenet",
+  "englishTitle": "Tenet",
+  "russianTitle": "Довод",
+  "originalLanguage": "en",
+  "year": 2020,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [
+   "Christopher Nolan"
+  ],
+  "cast": [
+   "John David Washington",
+   "Robert Pattinson",
+   "Elizabeth Debicki"
+  ],
+  "runtime": "150 min",
+  "imdbId": "tt6723592",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTIzNDIxMzktMzlkMi00MmUyLWFmMjQtZDgwMjBmOGJmNTI3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A secret agent learns to manipulate the flow of time to stop an attack from the future that could end the world.",
+  "addedAt": "2026-10-31T09:31:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Довод (Tenet)",
+   "Довод"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0804484",
+  "status": "watched",
+  "myRating": 7,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Foundation",
+  "englishTitle": "Foundation",
+  "russianTitle": "Основание",
+  "originalLanguage": "en",
+  "year": 2021,
+  "endYear": null,
+  "kind": "series",
+  "genres": [
+   "Drama",
+   "Sci-Fi"
+  ],
+  "countries": [
+   "Ireland",
+   "United States"
+  ],
+  "directors": [],
+  "cast": [
+   "Jared Harris",
+   "Lou Llobell",
+   "Lee Pace"
+  ],
+  "runtime": "53 min",
+  "imdbId": "tt0804484",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzY5OGJhYzItNGQyOS00NmU3LWFhOWMtNGY1OGVlNTlmYjc0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Based on Asimov: a mathematician predicts the fall of the Galactic Empire and sets out to shorten the dark age that will follow.",
+  "addedAt": "2026-10-31T09:32:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Foundation"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0301357",
+  "status": "watched",
+  "myRating": 7,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Good Bye, Lenin!",
+  "englishTitle": "Good Bye Lenin!",
+  "russianTitle": "Гуд бай, Ленин!",
+  "originalLanguage": "de",
+  "year": 2003,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "Germany"
+  ],
+  "directors": [
+   "Wolfgang Becker"
+  ],
+  "cast": [
+   "Daniel Brühl",
+   "Katrin Sass",
+   "Chulpan Khamatova"
+  ],
+  "runtime": "121 min",
+  "imdbId": "tt0301357",
+  "imdbRating": 7.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI0MTg4NzI3M15BMl5BanBnXkFtZTcwOTE0MTUyMQ@@._V1_QL75_UX300_.jpg",
+  "description": "To protect his fragile mother after she wakes from a coma, a young East Berliner pretends the GDR never collapsed.",
+  "addedAt": "2026-10-31T09:33:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Goodbye, Lenin!",
+   "Goodbye Lenin"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0118767",
+  "status": "watched",
+  "myRating": 7,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Брат",
+  "englishTitle": "Brother",
+  "russianTitle": "Брат",
+  "originalLanguage": "ru",
+  "year": 1997,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Aleksey Balabanov"
+  ],
+  "cast": [
+   "Sergey Bodrov",
+   "Viktor Sukhorukov",
+   "Svetlana Pismichenko"
+  ],
+  "runtime": "96 min",
+  "imdbId": "tt0118767",
+  "imdbRating": 7.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTZlNTFlZDQtOWEwZi00MWRmLTk1NzUtMmExNzI0MTI4OTdkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A young army veteran arrives in 1990s St. Petersburg to join his older brother and becomes a hitman with his own code of justice.",
+  "addedAt": "2026-10-31T09:34:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Брат / Брат 2"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0238883",
+  "status": "watched",
+  "myRating": 7,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Брат 2",
+  "englishTitle": "Brother 2",
+  "russianTitle": "Брат 2",
+  "originalLanguage": "ru",
+  "year": 2000,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Aleksey Balabanov"
+  ],
+  "cast": [
+   "Sergey Bodrov",
+   "Viktor Sukhorukov",
+   "Sergey Makovetskiy"
+  ],
+  "runtime": "122 min",
+  "imdbId": "tt0238883",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWNiNWI2ODktMzYzYi00NjFkLThlMTAtYmNiZTg5MmIyZjU4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Danila Bagrov heads to America to help an army friend’s brother, a hockey player cheated by a Chicago businessman.",
+  "addedAt": "2026-10-31T09:35:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Брат / Брат 2"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt14230388",
+  "status": "watched",
+  "myRating": 6,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Asteroid City",
+  "englishTitle": "Asteroid City",
+  "russianTitle": "Город астероидов",
+  "originalLanguage": "en",
+  "year": 2023,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Wes Anderson"
+  ],
+  "cast": [
+   "Jason Schwartzman",
+   "Scarlett Johansson",
+   "Tom Hanks"
+  ],
+  "runtime": "105 min",
+  "imdbId": "tt14230388",
+  "imdbRating": 6.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjY2YjYxNjEtNDJkYi00ZmJjLWIwYTEtNjEyZDgzY2M5ZDc3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Wes Anderson’s 1955 desert-town tale: a stargazing convention is upended by a world-changing encounter.",
+  "addedAt": "2026-10-31T09:36:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Asteroid City"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1772925",
+  "status": "watched",
+  "myRating": 6,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Jiro Dreams of Sushi",
+  "englishTitle": "Jiro Dreams of Sushi",
+  "russianTitle": "Мечты Дзиро о суши",
+  "originalLanguage": "en",
+  "year": 2011,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "David Gelb"
+  ],
+  "cast": [
+   "Jirô Ono",
+   "Yoshikazu Ono",
+   "Masuhiro Yamamoto"
+  ],
+  "runtime": "82 min",
+  "imdbId": "tt1772925",
+  "imdbRating": 7.8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTA5NzQzODUxOTheQTJeQWpwZ15BbWU3MDIwODg1MDc@._V1_QL75_UX300_.jpg",
+  "description": "Documentary portrait of 85-year-old Jiro Ono, the perfectionist behind a ten-seat, three-Michelin-star sushi bar in a Tokyo subway station.",
+  "addedAt": "2026-10-31T09:37:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Мечты дзиро о суши"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt3774694",
+  "status": "watched",
+  "myRating": 6,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Love",
+  "englishTitle": "Love",
+  "russianTitle": "Любовь",
+  "originalLanguage": "en",
+  "year": 2015,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "France",
+   "Belgium",
+   "Brazil"
+  ],
+  "directors": [
+   "Gaspar Noé"
+  ],
+  "cast": [
+   "Aomi Muyock",
+   "Karl Glusman",
+   "Klara Kristin"
+  ],
+  "runtime": "134 min",
+  "imdbId": "tt3774694",
+  "imdbRating": 6.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDg1MTg0ZDgtZTM5Ny00OTFmLWE1OWItNTAzZDgxOWU1YTA2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Gaspar Noé’s explicit 3D memory piece: a young American in Paris relives his intense relationship with an ex who has gone missing.",
+  "addedAt": "2026-10-31T09:38:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Любовь (Gaspar Noé)",
+   "Гаспар ноэ любовь"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt10272386",
+  "status": "watched",
+  "myRating": 6,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Father",
+  "englishTitle": "The Father",
+  "russianTitle": "Отец",
+  "originalLanguage": "en",
+  "year": 2020,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Mystery"
+  ],
+  "countries": [
+   "United Kingdom",
+   "France",
+   "United States"
+  ],
+  "directors": [
+   "Florian Zeller"
+  ],
+  "cast": [
+   "Anthony Hopkins",
+   "Olivia Colman",
+   "Mark Gatiss"
+  ],
+  "runtime": "97 min",
+  "imdbId": "tt10272386",
+  "imdbRating": 8.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Anthony Hopkins plays a man sinking into dementia, and the film places you inside his shifting, unreliable reality.",
+  "addedAt": "2026-10-31T09:39:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "The Father",
+   "Father",
+   "Отец"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt9770150",
+  "status": "watched",
+  "myRating": 4,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Nomadland",
+  "englishTitle": "Nomadland",
+  "russianTitle": "Земля кочевников",
+  "originalLanguage": "en",
+  "year": 2020,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Chloé Zhao"
+  ],
+  "cast": [
+   "Frances McDormand",
+   "David Strathairn",
+   "Linda May"
+  ],
+  "runtime": "108 min",
+  "imdbId": "tt9770150",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGNkOWQ0ZjMtMTc4Ny00NDRhLTgyMjUtNzFmZDM0MTc3N2JjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "After losing everything in the recession, a woman in her sixties sets out across the American West, living in her van.",
+  "addedAt": "2026-10-31T09:40:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Nomadland"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0114787",
+  "status": "watched",
+  "myRating": 4,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Underground",
+  "englishTitle": "Underground",
+  "russianTitle": "Андерграунд",
+  "originalLanguage": "sr",
+  "year": 1995,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "countries": [
+   "Federal Republic of Yugoslavia",
+   "France",
+   "Germany",
+   "Bulgaria",
+   "Czech Republic",
+   "Hungary"
+  ],
+  "directors": [
+   "Emir Kusturica"
+  ],
+  "cast": [
+   "Predrag 'Miki' Manojlovic",
+   "Lazar Ristovski",
+   "Mirjana Jokovic"
+  ],
+  "runtime": "170 min",
+  "imdbId": "tt0114787",
+  "imdbRating": 8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGI3MGFhMTgtMDJjOC00ODU1LTlhMTQtZmYyZDQ3YWQxYjc5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Emir Kusturica’s wild satire of Yugoslav history: black marketeers keep refugees in a cellar for decades, telling them WWII never ended.",
+  "addedAt": "2026-10-31T09:41:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Underground (Кустурица)"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt5358714",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Хороший мальчик",
+  "englishTitle": "Good Boy",
+  "russianTitle": "Хороший мальчик",
+  "originalLanguage": "ru",
+  "year": 2016,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Family"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Oksana Karas"
+  ],
+  "cast": [
+   "Sam Treskunov",
+   "Ieva Andrejevaite",
+   "Anastasiya Bogatyreva"
+  ],
+  "runtime": "95 min",
+  "imdbId": "tt5358714",
+  "imdbRating": 6.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDk3NjNlYWMtZjNlNC00ZWJkLTllNDMtYjk1ODRhZDVlM2Q1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A coming-of-age comedy about a clever, awkward high-school senior in a Moscow suburb dealing with first love, family and growing up.",
+  "addedAt": "2026-10-31T09:42:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Хороший мальчик"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt5789664",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Петербург. Только по любви",
+  "englishTitle": "St. Petersburg: Only for Love",
+  "russianTitle": "Петербург. Только по любви",
+  "originalLanguage": "ru",
+  "year": 2016,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Oxana Bychkova",
+   "Aksinya Gog",
+   "Natalya Kudryashova"
+  ],
+  "cast": [
+   "Anastasia Pronina",
+   "Nikita Smolyaninov",
+   "Arkadiy Koval"
+  ],
+  "runtime": "111 min",
+  "imdbId": "tt5789664",
+  "imdbRating": 5.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmM5NDgzNTUtZDk1NC00NmZhLWJiYjAtNDljMjQ4OGM2ZTIxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "An anthology of short love stories set in St. Petersburg, made by seven Russian directors.",
+  "addedAt": "2026-10-31T09:43:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Петербург. Только по любви"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt6952604",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Аритмия",
+  "englishTitle": "Arrhythmia",
+  "russianTitle": "Аритмия",
+  "originalLanguage": "ru",
+  "year": 2017,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "Russia",
+   "Finland",
+   "Germany"
+  ],
+  "directors": [
+   "Boris Khlebnikov"
+  ],
+  "cast": [
+   "Aleksandr Yatsenko",
+   "Irina Gorbacheva",
+   "Nikolay Shrayber"
+  ],
+  "runtime": "116 min",
+  "imdbId": "tt6952604",
+  "imdbRating": 7.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzdmYzI5ZmEtMGIxOC00OGFlLWE4NjMtNDY5N2Q2OGJiNDA1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Boris Khlebnikov’s drama: a gifted but hard-drinking ambulance doctor’s marriage cracks under the pressure of his job and new hospital rules.",
+  "addedAt": "2026-10-31T09:44:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Аритмия"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt7342838",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Лето",
+  "englishTitle": "Leto",
+  "russianTitle": "Лето",
+  "originalLanguage": "ru",
+  "year": 2018,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "countries": [
+   "Russia",
+   "France"
+  ],
+  "directors": [
+   "Kirill Serebrennikov"
+  ],
+  "cast": [
+   "Roman Bilyk",
+   "Irina Starshenbaum",
+   "Teo Yoo"
+  ],
+  "runtime": "126 min",
+  "imdbId": "tt7342838",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA3MTc3MjU2M15BMl5BanBnXkFtZTgwNTg0NTgwODM@._V1_QL75_UX300_.jpg",
+  "description": "Kirill Serebrennikov’s musical drama about the early-1980s Leningrad rock scene, Mike Naumenko and a young Viktor Tsoi.",
+  "addedAt": "2026-10-31T09:45:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Лето"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1211837",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Doctor Strange",
+  "englishTitle": "Doctor Strange",
+  "russianTitle": "Доктор Стрэндж",
+  "originalLanguage": "en",
+  "year": 2016,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Fantasy"
+  ],
+  "countries": [
+   "United States",
+   "Hong Kong",
+   "Nepal"
+  ],
+  "directors": [
+   "Scott Derrickson"
+  ],
+  "cast": [
+   "Benedict Cumberbatch",
+   "Chiwetel Ejiofor",
+   "Rachel McAdams"
+  ],
+  "runtime": "115 min",
+  "imdbId": "tt1211837",
+  "imdbRating": 7.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_QL75_UX300_.jpg",
+  "description": "A brilliant, arrogant surgeon loses the use of his hands and turns to the mystic arts, becoming Earth’s sorcerer protector.",
+  "addedAt": "2026-10-31T09:46:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Доктор стрендж"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt4901306",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Perfetti sconosciuti",
+  "englishTitle": "Perfect Strangers",
+  "russianTitle": "Идеальные незнакомцы",
+  "originalLanguage": "it",
+  "year": 2016,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "Italy"
+  ],
+  "directors": [
+   "Paolo Genovese"
+  ],
+  "cast": [
+   "Giuseppe Battiston",
+   "Anna Foglietta",
+   "Marco Giallini"
+  ],
+  "runtime": "97 min",
+  "imdbId": "tt4901306",
+  "imdbRating": 7.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzBjZjIwZTMtMmVmMy00NDZjLThlMGYtMjMyODE4NjE0YjFiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "At a dinner party, seven old friends agree to share every call and message on their phones — and the secrets start spilling out.",
+  "addedAt": "2026-10-31T09:47:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Идеальные незнакомцы"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0154506",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Following",
+  "englishTitle": "Following",
+  "russianTitle": "Преследование",
+  "originalLanguage": "en",
+  "year": 1998,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Mystery",
+   "Thriller"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [
+   "Christopher Nolan"
+  ],
+  "cast": [
+   "Jeremy Theobald",
+   "Alex Haw",
+   "Lucy Russell"
+  ],
+  "runtime": "69 min",
+  "imdbId": "tt0154506",
+  "imdbRating": 7.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQxYzIwMTAtYjZlNi00YzkwLWI4ZGYtNzNlZjU3N2MyNzI4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Christopher Nolan’s debut: a young writer who shadows strangers for inspiration gets entangled with a charismatic burglar.",
+  "addedAt": "2026-10-31T09:48:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Преследование"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt2053463",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Side Effects",
+  "englishTitle": "Side Effects",
+  "russianTitle": "Побочный эффект",
+  "originalLanguage": "en",
+  "year": 2013,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Steven Soderbergh"
+  ],
+  "cast": [
+   "Rooney Mara",
+   "Channing Tatum",
+   "Jude Law"
+  ],
+  "runtime": "106 min",
+  "imdbId": "tt2053463",
+  "imdbRating": 7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MzY0NDAwOF5BMl5BanBnXkFtZTcwMTE1Mzc4OA@@._V1_QL75_UX300_.jpg",
+  "description": "Steven Soderbergh’s thriller: a psychiatrist’s life unravels after a patient on a new antidepressant commits a shocking crime.",
+  "addedAt": "2026-10-31T09:49:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Побочный эффект"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt3741834",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Lion",
+  "englishTitle": "Lion",
+  "russianTitle": "Лев",
+  "originalLanguage": "en",
+  "year": 2016,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Biography",
+   "Drama"
+  ],
+  "countries": [
+   "United Kingdom",
+   "Australia",
+   "United States"
+  ],
+  "directors": [
+   "Garth Davis"
+  ],
+  "cast": [
+   "Dev Patel",
+   "Nicole Kidman",
+   "Rooney Mara"
+  ],
+  "runtime": "118 min",
+  "imdbId": "tt3741834",
+  "imdbRating": 8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1_QL75_UX300_.jpg",
+  "description": "Adopted by an Australian couple after getting lost in India as a boy, a young man uses Google Earth to search for his birth family.",
+  "addedAt": "2026-10-31T09:50:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Lion"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt7524414",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Beats",
+  "englishTitle": "Beats",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2019,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "countries": [
+   "United Kingdom"
+  ],
+  "directors": [
+   "Brian Welsh"
+  ],
+  "cast": [
+   "Cristian Ortega",
+   "Lorn Macdonald",
+   "Laura Fraser"
+  ],
+  "runtime": "100 min",
+  "imdbId": "tt7524414",
+  "imdbRating": 7.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjljMTdhM2QtMTJjYS00ZmJlLWIyMDYtMjVmYzQ0MzBlNjQyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Scotland, 1994: two teenage best friends plan one last night of freedom at an illegal rave as the government cracks down on “repetitive beats”.",
+  "addedAt": "2026-10-31T09:51:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Beats"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8946378",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Knives Out",
+  "englishTitle": "Knives Out",
+  "russianTitle": "Достать ножи",
+  "originalLanguage": "en",
+  "year": 2019,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Rian Johnson"
+  ],
+  "cast": [
+   "Daniel Craig",
+   "Chris Evans",
+   "Ana de Armas"
+  ],
+  "runtime": "131 min",
+  "imdbId": "tt8946378",
+  "imdbRating": 7.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDU5ZTRkYmItZjg0Mi00ZTQwLThjMWItNWM3MTMxMzVjZmVjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A famed detective investigates the death of a wealthy crime novelist, and every member of his eccentric family is a suspect.",
+  "addedAt": "2026-10-31T09:52:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Достать ножи"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt3864056",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Goldfinch",
+  "englishTitle": "The Goldfinch",
+  "russianTitle": "Щегол",
+  "originalLanguage": "en",
+  "year": 2019,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "John Crowley"
+  ],
+  "cast": [
+   "Oakes Fegley",
+   "Ansel Elgort",
+   "Nicole Kidman"
+  ],
+  "runtime": "149 min",
+  "imdbId": "tt3864056",
+  "imdbRating": 6.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWM2YjgxZmYtNjNhYi00OTA5LWI3ODMtOTllNzc1ZDAyN2Q0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A boy who survives a museum bombing that kills his mother secretly keeps a small Dutch masterpiece, and it shapes his whole life.",
+  "addedAt": "2026-10-31T09:53:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Щегол"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0265666",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Royal Tenenbaums",
+  "englishTitle": "The Royal Tenenbaums",
+  "russianTitle": "Семейка Тененбаум",
+  "originalLanguage": "en",
+  "year": 2001,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Wes Anderson"
+  ],
+  "cast": [
+   "Gene Hackman",
+   "Gwyneth Paltrow",
+   "Anjelica Huston"
+  ],
+  "runtime": "110 min",
+  "imdbId": "tt0265666",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTc1MzFlMjEtMzkyNC00NDgyLThjMjMtMzQzZGI5YjUyNzU5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Wes Anderson’s comedy about an estranged family of former child prodigies reunited when their roguish father claims he is dying.",
+  "addedAt": "2026-10-31T09:54:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Семейка тененбаум"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt10199590",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Les Misérables",
+  "englishTitle": "Les Misérables",
+  "russianTitle": "Отверженные",
+  "originalLanguage": "fr",
+  "year": 2019,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "France"
+  ],
+  "directors": [
+   "Ladj Ly"
+  ],
+  "cast": [
+   "Damien Bonnard",
+   "Alexis Manenti",
+   "Djebril Zonga"
+  ],
+  "runtime": "104 min",
+  "imdbId": "tt10199590",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzE2Y2Y0NjUtNWI3Yy00NGUyLTk0MmEtODE1YzAxNDhkMTgzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A new cop joins an anti-crime squad in the Paris suburb of Montfermeil, where a single arrest spirals toward a riot.",
+  "addedAt": "2026-10-31T09:55:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Отверженные"
+  ],
+  "needsReview": true,
+  "reviewNote": "Matched to Ladj Ly’s 2019 film; could also be the 2012 musical.",
+  "hidden": false
+ },
+ {
+  "id": "tt7668870",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Searching",
+  "englishTitle": "Searching",
+  "russianTitle": "Поиск",
+  "originalLanguage": "en",
+  "year": 2018,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "countries": [
+   "Russia",
+   "United States"
+  ],
+  "directors": [
+   "Aneesh Chaganty"
+  ],
+  "cast": [
+   "John Cho",
+   "Debra Messing",
+   "Joseph Lee"
+  ],
+  "runtime": "102 min",
+  "imdbId": "tt7668870",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIwOTA3NDI3MF5BMl5BanBnXkFtZTgwNzIzMzA5NTM@._V1_QL75_UX300_.jpg",
+  "description": "A father searches for his missing teenage daughter by digging through her laptop and social media — told entirely on computer screens.",
+  "addedAt": "2026-10-31T09:56:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Searching"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8655470",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Hors normes",
+  "englishTitle": "The Specials",
+  "russianTitle": "Особенные",
+  "originalLanguage": "fr",
+  "year": 2019,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "France",
+   "Belgium"
+  ],
+  "directors": [
+   "Olivier Nakache",
+   "Éric Toledano"
+  ],
+  "cast": [
+   "Vincent Cassel",
+   "Reda Kateb",
+   "Hélène Vincent"
+  ],
+  "runtime": "114 min",
+  "imdbId": "tt8655470",
+  "imdbRating": 7.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjY3Y2U1MmUtZGZkZS00ZTFjLWI2MWItZTg5N2M1OWUyMmNiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Two friends run non-profits caring for autistic children and teenagers whom the official system has given up on.",
+  "addedAt": "2026-10-31T09:57:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Особенные"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8579674",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "1917",
+  "englishTitle": "1917",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2019,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "War"
+  ],
+  "countries": [
+   "United Kingdom",
+   "India",
+   "Spain",
+   "South Korea",
+   "United States"
+  ],
+  "directors": [
+   "Sam Mendes"
+  ],
+  "cast": [
+   "Dean-Charles Chapman",
+   "George MacKay",
+   "Daniel Mays"
+  ],
+  "runtime": "119 min",
+  "imdbId": "tt8579674",
+  "imdbRating": 8.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Two young British soldiers race across enemy territory to deliver a message that could save 1,600 men — filmed as one continuous shot.",
+  "addedAt": "2026-10-31T09:58:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "!1917"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8267604",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Capharnaüm",
+  "englishTitle": "Capernaum",
+  "russianTitle": "Капернаум",
+  "originalLanguage": "ar",
+  "year": 2018,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "Lebanon",
+   "United States",
+   "France",
+   "Cyprus",
+   "Qatar",
+   "United Kingdom"
+  ],
+  "directors": [
+   "Nadine Labaki"
+  ],
+  "cast": [
+   "Zain Al Rafeea",
+   "Yordanos Shifera",
+   "Boluwatife Treasure Bankole"
+  ],
+  "runtime": "126 min",
+  "imdbId": "tt8267604",
+  "imdbRating": 8.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzEyMzQ1OTktZTljZi00OWQzLWE2ZmUtZjQyNzBjYjE1NTc0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Nadine Labaki’s drama about a 12-year-old boy from the Beirut slums who sues his parents for giving him life.",
+  "addedAt": "2026-10-31T09:59:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Капернаум"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt7846844",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Enola Holmes",
+  "englishTitle": "Enola Holmes",
+  "russianTitle": "Энола Холмс",
+  "originalLanguage": "en",
+  "year": 2020,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Adventure",
+   "Crime",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Harry Bradbeer"
+  ],
+  "cast": [
+   "Millie Bobby Brown",
+   "Henry Cavill",
+   "Sam Claflin"
+  ],
+  "runtime": "124 min",
+  "imdbId": "tt7846844",
+  "imdbRating": 6.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTRlYmI1NTMtYTVkYi00MjJkLWE3ZGItOThkYTdhNzBhMThhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Sherlock Holmes’s teenage sister sets off to find their missing mother and stumbles into a political conspiracy.",
+  "addedAt": "2026-10-31T10:00:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Enola holmes"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt11639414",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": "“drug cartoon”",
+  "originalTitle": "The Midnight Gospel",
+  "englishTitle": "The Midnight Gospel",
+  "russianTitle": "Полночное Евангелие",
+  "originalLanguage": "en",
+  "year": 2020,
+  "endYear": null,
+  "kind": "series",
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [],
+  "cast": [
+   "Phil Hendrie",
+   "Duncan Trussell",
+   "Joey Diaz"
+  ],
+  "runtime": "26 min",
+  "imdbId": "tt11639414",
+  "imdbRating": 8.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2UyMTdlMzItYTY1MC00NWExLWI1NDQtYTcxZGJlZmIzZTk4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Psychedelic animated series: a space-caster visits dying worlds to interview their inhabitants, built around real podcast talks about life and death.",
+  "addedAt": "2026-10-31T10:01:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Midnight gospel (drug cartoon)"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0110527",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": "Christmas movie",
+  "originalTitle": "Miracle on 34th Street",
+  "englishTitle": "Miracle on 34th Street",
+  "russianTitle": "Чудо на 34-й улице",
+  "originalLanguage": "en",
+  "year": 1994,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Family",
+   "Fantasy"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Les Mayfield"
+  ],
+  "cast": [
+   "Richard Attenborough",
+   "Elizabeth Perkins",
+   "Dylan McDermott"
+  ],
+  "runtime": "114 min",
+  "imdbId": "tt0110527",
+  "imdbRating": 6.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzA2YjU3NjUtZDNiOS00ZjY2LThjOTYtYjQ1MGM4MTk4YzZjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A department-store Santa insists he’s the real Santa Claus, and a courtroom battle is fought to prove it.",
+  "addedAt": "2026-10-31T10:02:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Christmas movie: Miracle on 34 street"
+  ],
+  "needsReview": true,
+  "reviewNote": "Matched to the 1994 remake; could be the 1947 original.",
+  "hidden": false
+ },
+ {
+  "id": "tt0230838",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Sweet November",
+  "englishTitle": "Sweet November",
+  "russianTitle": "Сладкий ноябрь",
+  "originalLanguage": "en",
+  "year": 2001,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Pat O'Connor"
+  ],
+  "cast": [
+   "Keanu Reeves",
+   "Charlize Theron",
+   "Jason Isaacs"
+  ],
+  "runtime": "119 min",
+  "imdbId": "tt0230838",
+  "imdbRating": 6.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2QyYWU1Y2EtZmU2Yi00NzMxLTllODUtYTU2NjM4MWQwYzJiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A workaholic ad executive agrees to spend one month with a free-spirited woman who changes his life.",
+  "addedAt": "2026-10-31T10:03:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Sweet november"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt6710474",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Everything Everywhere All at Once",
+  "englishTitle": "Everything Everywhere All at Once",
+  "russianTitle": "Всё везде и сразу",
+  "originalLanguage": "en",
+  "year": 2022,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Comedy"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Daniel Kwan",
+   "Daniel Scheinert"
+  ],
+  "cast": [
+   "Michelle Yeoh",
+   "Stephanie Hsu",
+   "Jamie Lee Curtis"
+  ],
+  "runtime": "140 min",
+  "imdbId": "tt6710474",
+  "imdbRating": 7.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWNmMzAzZmQtNDQ1NC00Nzk5LTkyMmUtNGI2N2NkOWM4MzEyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A laundromat owner being audited by the IRS must connect with parallel-universe versions of herself to save the multiverse.",
+  "addedAt": "2026-10-31T10:04:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Everything everywhere all at once"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0338013",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Eternal Sunshine of the Spotless Mind",
+  "englishTitle": "Eternal Sunshine of the Spotless Mind",
+  "russianTitle": "Вечное сияние чистого разума",
+  "originalLanguage": "en",
+  "year": 2004,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Romance",
+   "Sci-Fi"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Michel Gondry"
+  ],
+  "cast": [
+   "Jim Carrey",
+   "Kate Winslet",
+   "Tom Wilkinson"
+  ],
+  "runtime": "108 min",
+  "imdbId": "tt0338013",
+  "imdbRating": 8.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_QL75_UX300_.jpg",
+  "description": "After a painful breakup, a man has his ex erased from his memory — then fights to hold on to her as the memories vanish.",
+  "addedAt": "2026-10-31T10:05:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Eternal sunshine of a spotless mind"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt10855768",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Missing",
+  "englishTitle": "Missing",
+  "russianTitle": "Пропавшая",
+  "originalLanguage": "en",
+  "year": 2023,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "countries": [
+   "Russia",
+   "United States"
+  ],
+  "directors": [
+   "Nicholas D. Johnson",
+   "Will Merrick"
+  ],
+  "cast": [
+   "Tim Griffin",
+   "Ava Zaria Lee",
+   "Nia Long"
+  ],
+  "runtime": "111 min",
+  "imdbId": "tt10855768",
+  "imdbRating": 7.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGVkMGU0NDktNTFlMC00ZWI5LWI5OGUtYmVjZTEzOTM4MTI5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "When her mother vanishes on a trip to Colombia, a teenager hunts for her using only online tools — a standalone follow-up to Searching.",
+  "addedAt": "2026-10-31T10:06:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Missing"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt14821150",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Vortex",
+  "englishTitle": "Vortex",
+  "russianTitle": "Вортекс",
+  "originalLanguage": "fr",
+  "year": 2021,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "France",
+   "Belgium",
+   "Monaco"
+  ],
+  "directors": [
+   "Gaspar Noé"
+  ],
+  "cast": [
+   "Dario Argento",
+   "Françoise Lebrun",
+   "Alex Lutz"
+  ],
+  "runtime": "142 min",
+  "imdbId": "tt14821150",
+  "imdbRating": 7.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDBkNTIxM2MtZjMzMi00ODY0LTgwYjMtM2ZiNTUyYzIwZGYxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Gaspar Noé’s split-screen portrait of an elderly Parisian couple’s last days as dementia closes in.",
+  "addedAt": "2026-10-31T10:07:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Vortex"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0290673",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Irréversible",
+  "englishTitle": "Irreversible",
+  "russianTitle": "Необратимость",
+  "originalLanguage": "fr",
+  "year": 2002,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "countries": [
+   "France"
+  ],
+  "directors": [
+   "Gaspar Noé"
+  ],
+  "cast": [
+   "Monica Bellucci",
+   "Vincent Cassel",
+   "Albert Dupontel"
+  ],
+  "runtime": "97 min",
+  "imdbId": "tt0290673",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTE2MWM1NTgtMGVjMy00ZGU2LWE4YTUtNTRlNWRhZWE2NmM0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Told in reverse, Gaspar Noé’s notorious drama traces one night in Paris that leads to a brutal crime and an act of revenge.",
+  "addedAt": "2026-10-31T10:08:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Irreversible gaspar noe"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1130884",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Shutter Island",
+  "englishTitle": "Shutter Island",
+  "russianTitle": "Остров проклятых",
+  "originalLanguage": "en",
+  "year": 2010,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Mystery",
+   "Thriller"
+  ],
+  "countries": [
+   "Canada",
+   "United States"
+  ],
+  "directors": [
+   "Martin Scorsese"
+  ],
+  "cast": [
+   "Leonardo DiCaprio",
+   "Emily Mortimer",
+   "Mark Ruffalo"
+  ],
+  "runtime": "138 min",
+  "imdbId": "tt1130884",
+  "imdbRating": 8.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "In 1954, a U.S. marshal investigates a patient’s disappearance from an island hospital for the criminally insane.",
+  "addedAt": "2026-10-31T10:09:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Shutter Island"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8232636",
+  "status": "watched",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": "From a YouTube link",
+  "originalTitle": "Cunk on Britain",
+  "englishTitle": "Cunk on Britain",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2018,
+  "endYear": null,
+  "kind": "miniseries",
+  "genres": [
+   "Comedy",
+   "History"
+  ],
+  "countries": [
+   "United Kingdom"
+  ],
+  "directors": [],
+  "cast": [
+   "Diane Morgan",
+   "Ronald Hutton",
+   "Ashley Jackson"
+  ],
+  "runtime": "30 min",
+  "imdbId": "tt8232636",
+  "imdbRating": 8.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjU2ZDZjYTYtZmViOS00NGU3LWEwMmUtMzNjODY1MTRmNjM0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Diane Morgan’s deadpan mockumentary in which hopeless presenter Philomena Cunk “explores” the history of Britain.",
+  "addedAt": "2026-10-31T10:10:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "https://www.youtube.com/watch?v=MUM89s4N2BQ&t=735s"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0970179",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": "Watch with kids",
+  "originalTitle": "Hugo",
+  "englishTitle": "Hugo",
+  "russianTitle": "Хранитель времени",
+  "originalLanguage": "en",
+  "year": 2011,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Adventure",
+   "Drama",
+   "Family"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [
+   "Martin Scorsese"
+  ],
+  "cast": [
+   "Asa Butterfield",
+   "Chloë Grace Moretz",
+   "Christopher Lee"
+  ],
+  "runtime": "126 min",
+  "imdbId": "tt0970179",
+  "imdbRating": 7.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAzNzk5MzgyNF5BMl5BanBnXkFtZTcwOTE4NDU5Ng@@._V1_QL75_UX300_.jpg",
+  "description": "Martin Scorsese’s family adventure: an orphan living in the walls of a 1930s Paris train station unlocks a mystery tied to film pioneer Georges Méliès.",
+  "addedAt": "2026-10-31T10:11:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Hugo with kids"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "трансерфинг",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Трансерфинг",
+  "englishTitle": null,
+  "russianTitle": "Трансерфинг",
+  "originalLanguage": "ru",
+  "year": null,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [],
+  "countries": [],
+  "directors": [],
+  "cast": [],
+  "runtime": null,
+  "imdbId": null,
+  "imdbRating": null,
+  "poster": null,
+  "description": null,
+  "addedAt": "2026-10-31T10:12:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Трансерфинг"
+  ],
+  "needsReview": true,
+  "reviewNote": "No film found — “Reality Transurfing” is Vadim Zeland’s book series.",
+  "hidden": true
+ },
+ {
+  "id": "tt11378946",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Michael",
+  "englishTitle": "Michael",
+  "russianTitle": "Майкл",
+  "originalLanguage": "en",
+  "year": 2026,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "countries": [
+   "United States",
+   "Canada",
+   "United Kingdom"
+  ],
+  "directors": [
+   "Antoine Fuqua"
+  ],
+  "cast": [
+   "Jaafar Jackson",
+   "Nia Long",
+   "Colman Domingo"
+  ],
+  "runtime": "128 min",
+  "imdbId": "tt11378946",
+  "imdbRating": 7.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Antoine Fuqua’s biopic of Michael Jackson, from the Jackson 5 to global superstardom, with his nephew Jaafar Jackson in the lead.",
+  "addedAt": "2026-10-31T10:13:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Артист майкл джексон"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt7253110",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Атлантида Русского Севера",
+  "englishTitle": "Atlantis of the Russian North",
+  "russianTitle": "Атлантида Русского Севера",
+  "originalLanguage": "ru",
+  "year": 2015,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Sofya Gorlenko"
+  ],
+  "cast": [],
+  "runtime": "74 min",
+  "imdbId": "tt7253110",
+  "imdbRating": 7.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmUyYzE5YTEtODE1OC00Y2NkLThmOGYtMjBkMGFiMjkyMjA5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Sofia Gorlenko’s crowdfunded documentary about the vanishing wooden churches and villages along the Vaga, Onega and Northern Dvina rivers.",
+  "addedAt": "2026-10-31T10:14:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Атлантида русского севера"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt31189315",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Малыш",
+  "note": null,
+  "originalTitle": "Father Mother Sister Brother",
+  "englishTitle": "Father Mother Sister Brother",
+  "russianTitle": "Отец мать сестра брат",
+  "originalLanguage": "en",
+  "year": 2025,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States",
+   "United Kingdom",
+   "Italy",
+   "France",
+   "Ireland",
+   "Germany"
+  ],
+  "directors": [
+   "Jim Jarmusch"
+  ],
+  "cast": [
+   "Tom Waits",
+   "Adam Driver",
+   "Mayim Bialik"
+  ],
+  "runtime": "111 min",
+  "imdbId": "tt31189315",
+  "imdbRating": 6.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWI5OTEzMzEtZTdiNS00NTdjLWFjMTQtZDM5MjRjYWE1M2ZkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Jim Jarmusch’s Golden Lion-winning triptych about grown-up children and their distant parents, set in New Jersey, Dublin and Paris.",
+  "addedAt": "2026-10-31T10:15:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Джармуш малыш"
+  ],
+  "needsReview": true,
+  "reviewNote": "Your note only says “Jarmusch” — picked his newest film. Change it if you meant another one.",
+  "hidden": false
+ },
+ {
+  "id": "tt0083658",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Blade Runner",
+  "englishTitle": "Blade Runner",
+  "russianTitle": "Бегущий по лезвию",
+  "originalLanguage": "en",
+  "year": 1982,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "countries": [
+   "United States",
+   "United Kingdom",
+   "Hong Kong"
+  ],
+  "directors": [
+   "Ridley Scott"
+  ],
+  "cast": [
+   "Harrison Ford",
+   "Rutger Hauer",
+   "Sean Young"
+  ],
+  "runtime": "118 min",
+  "imdbId": "tt0083658",
+  "imdbRating": 8.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQ4YTBmNTQtMDYxMC00NGFjLTkwOGQtNzdhNmY1Nzc1MzUxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "In a rain-soaked future Los Angeles, a burned-out cop hunts four rogue androids desperate to extend their lives.",
+  "addedAt": "2026-10-31T10:16:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Bladerunner"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0099097",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Бакенбарды",
+  "englishTitle": "Sideburns",
+  "russianTitle": "Бакенбарды",
+  "originalLanguage": "ru",
+  "year": 1990,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "Soviet Union"
+  ],
+  "directors": [
+   "Yuri Mamin"
+  ],
+  "cast": [
+   "Viktor Sukhorukov",
+   "Artur Vakha",
+   "Aleksandr Lykov"
+  ],
+  "runtime": "94 min",
+  "imdbId": "tt0099097",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWRlNGQzYjgtYjUzNy00Y2VhLWFjNjctMjJkNzJjZDZiOWY4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Yuri Mamin’s satire: a gang of Pushkin-worshipping vigilantes in sideburns takes over a sleepy provincial town.",
+  "addedAt": "2026-10-31T10:17:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Бакенбарды"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt5816682",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Victoria & Abdul",
+  "englishTitle": "Victoria & Abdul",
+  "russianTitle": "Виктория и Абдул",
+  "originalLanguage": "en",
+  "year": 2017,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Biography",
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United Kingdom",
+   "China",
+   "United States"
+  ],
+  "directors": [
+   "Stephen Frears"
+  ],
+  "cast": [
+   "Judi Dench",
+   "Ali Fazal",
+   "Tim Pigott-Smith"
+  ],
+  "runtime": "112 min",
+  "imdbId": "tt5816682",
+  "imdbRating": 6.8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NzY1NTQ1Nl5BMl5BanBnXkFtZTgwMTM3NTY0MjI@._V1_QL75_UX300_.jpg",
+  "description": "The true story of the unlikely friendship between an aging Queen Victoria and a young Indian clerk.",
+  "addedAt": "2026-10-31T10:18:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Виктория и абдул"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0094683",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Асса",
+  "englishTitle": "Assa",
+  "russianTitle": "Асса",
+  "originalLanguage": "ru",
+  "year": 1987,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "History"
+  ],
+  "countries": [
+   "Soviet Union"
+  ],
+  "directors": [
+   "Sergey Solovyov"
+  ],
+  "cast": [
+   "Natan Eidelman",
+   "Anatoly Slivnikov",
+   "German Shorr"
+  ],
+  "runtime": "150 min",
+  "imdbId": "tt0094683",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkwMjM4MTcwOF5BMl5BanBnXkFtZTgwOTMyMTM2MTE@._V1_QL75_UX300_.jpg",
+  "description": "Sergei Solovyov’s perestroika cult film: a love triangle between a nurse, a mobster and a young musician in wintry Yalta, ending with Viktor Tsoi.",
+  "addedAt": "2026-10-31T10:19:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Асса"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1034314",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Vinograd",
+  "note": null,
+  "originalTitle": "Iron Sky",
+  "englishTitle": "Iron Sky",
+  "russianTitle": "Железное небо",
+  "originalLanguage": "en",
+  "year": 2012,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Comedy"
+  ],
+  "countries": [
+   "Finland",
+   "Germany",
+   "Australia"
+  ],
+  "directors": [
+   "Timo Vuorensola"
+  ],
+  "cast": [
+   "Julia Dietze",
+   "Christopher Kirby",
+   "Götz Otto"
+  ],
+  "runtime": "93 min",
+  "imdbId": "tt1034314",
+  "imdbRating": 5.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTM2MDg5MzgxNF5BMl5BanBnXkFtZTcwODUzNjMxOA@@._V1_QL75_UX300_.jpg",
+  "description": "Nazis who fled to the dark side of the Moon in 1945 return in 2018 to invade Earth — a Finnish cult sci-fi comedy.",
+  "addedAt": "2026-10-31T10:20:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Железное небо",
+   "Film at vinograd’s. Nazis aliens"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt4209788",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Molly's Game",
+  "englishTitle": "Molly's Game",
+  "russianTitle": "Большая игра",
+  "originalLanguage": "en",
+  "year": 2017,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "countries": [
+   "United States",
+   "Canada",
+   "China"
+  ],
+  "directors": [
+   "Aaron Sorkin"
+  ],
+  "cast": [
+   "Jessica Chastain",
+   "Idris Elba",
+   "Kevin Costner"
+  ],
+  "runtime": "141 min",
+  "imdbId": "tt4209788",
+  "imdbRating": 7.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmYxYTg1ZDktNjc1Yy00MjVlLTk2Y2MtNmMzZTBkZDNjZjdlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Aaron Sorkin’s true story of Molly Bloom, a former Olympic-class skier who ran the world’s most exclusive high-stakes poker game.",
+  "addedAt": "2026-10-31T10:21:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Molly bloom"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0144550",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Pentagon Wars",
+  "englishTitle": "The Pentagon Wars",
+  "russianTitle": "Войны Пентагона",
+  "originalLanguage": "en",
+  "year": 1998,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "War"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Richard Benjamin"
+  ],
+  "cast": [
+   "Kelsey Grammer",
+   "Cary Elwes",
+   "Viola Davis"
+  ],
+  "runtime": "104 min",
+  "imdbId": "tt0144550",
+  "imdbRating": 7.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmZmOWUzZWMtNWIyNS00NTJmLWFiYzUtZTJhODhiZTU4ZDAyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A satire about the absurd 17-year development of the Bradley Fighting Vehicle and the officer who insists on testing it honestly.",
+  "addedAt": "2026-10-31T10:22:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Воины пентагона"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt3416742",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "What We Do in the Shadows",
+  "englishTitle": "What We Do in the Shadows",
+  "russianTitle": "Реальные упыри",
+  "originalLanguage": "en",
+  "year": 2014,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Horror",
+   "Thriller"
+  ],
+  "countries": [
+   "New Zealand",
+   "United States"
+  ],
+  "directors": [
+   "Jemaine Clement",
+   "Taika Waititi"
+  ],
+  "cast": [
+   "Jemaine Clement",
+   "Taika Waititi",
+   "Jonny Brugh"
+  ],
+  "runtime": "86 min",
+  "imdbId": "tt3416742",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGFhNjkyZDYtOTc4Yi00OWM4LTg4ZTktNjIzNDA5NGE5YTYwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A mockumentary about four vampire flatmates in Wellington struggling with chores, nightlife and the modern world.",
+  "addedAt": "2026-10-31T10:23:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Реальные упыри"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt2802154",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Левиафан",
+  "englishTitle": "Leviathan",
+  "russianTitle": "Левиафан",
+  "originalLanguage": "ru",
+  "year": 2014,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Andrey Zvyagintsev"
+  ],
+  "cast": [
+   "Aleksey Serebryakov",
+   "Elena Lyadova",
+   "Roman Madyanov"
+  ],
+  "runtime": "141 min",
+  "imdbId": "tt2802154",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwMTY3MTU0Ml5BMl5BanBnXkFtZTgwNzE0ODAwMzE@._V1_QL75_UX300_.jpg",
+  "description": "Andrey Zvyagintsev’s drama about a mechanic in a northern Russian town fighting a corrupt mayor who wants his land.",
+  "addedAt": "2026-10-31T10:24:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Левиафан",
+   "левиафан"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0847880",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Груз 200",
+  "englishTitle": "Cargo 200",
+  "russianTitle": "Груз 200",
+  "originalLanguage": "ru",
+  "year": 2007,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Aleksey Balabanov"
+  ],
+  "cast": [
+   "Agniya Kuznetsova",
+   "Aleksey Poluyan",
+   "Leonid Gromov"
+  ],
+  "runtime": "89 min",
+  "imdbId": "tt0847880",
+  "imdbRating": 7.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTQ4OWVjZWItYWU1OC00ZGM3LWI1ZWQtNjI5NzZjM2Q1ZTc1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Aleksei Balabanov’s harrowing thriller set in a provincial Soviet town in 1984, as the coffins of the Afghan war come home.",
+  "addedAt": "2026-10-31T10:25:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Груз 200"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt9411972",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Where the Crawdads Sing",
+  "englishTitle": "Where the Crawdads Sing",
+  "russianTitle": "Там, где раки поют",
+  "originalLanguage": "en",
+  "year": 2022,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Olivia Newman"
+  ],
+  "cast": [
+   "Daisy Edgar-Jones",
+   "Taylor John Smith",
+   "Harris Dickinson"
+  ],
+  "runtime": "126 min",
+  "imdbId": "tt9411972",
+  "imdbRating": 7.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGM5ODU5YTktMGUxYi00YjQyLTk0MzgtZTg0MWQ2NDg0YTA0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A young woman who grew up alone in the North Carolina marshes becomes the prime suspect in a local man’s death.",
+  "addedAt": "2026-10-31T10:26:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Как раки"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1925421",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Елена",
+  "englishTitle": "Elena",
+  "russianTitle": "Елена",
+  "originalLanguage": "ru",
+  "year": 2011,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Andrey Zvyagintsev"
+  ],
+  "cast": [
+   "Nadezhda Markina",
+   "Andrey Smirnov",
+   "Aleksey Rozin"
+  ],
+  "runtime": "110 min",
+  "imdbId": "tt1925421",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2I3M2Q2MmEtOTRkNy00YzU4LWJmYmItMTAxYTMxNWMwMmE0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Andrey Zvyagintsev’s tense drama about a former nurse married to a wealthy older man, and how far she’ll go for her own son.",
+  "addedAt": "2026-10-31T10:27:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Елена"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt5726616",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Call Me by Your Name",
+  "englishTitle": "Call Me by Your Name",
+  "russianTitle": "Зови меня своим именем",
+  "originalLanguage": "en",
+  "year": 2017,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "Brazil",
+   "France",
+   "Italy",
+   "United States"
+  ],
+  "directors": [
+   "Luca Guadagnino"
+  ],
+  "cast": [
+   "Timothée Chalamet",
+   "Armie Hammer",
+   "Michael Stuhlbarg"
+  ],
+  "runtime": "132 min",
+  "imdbId": "tt5726616",
+  "imdbRating": 7.8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDk3NTEwNjc0MV5BMl5BanBnXkFtZTgwNzYxNTMwMzI@._V1_QL75_UX300_.jpg",
+  "description": "Northern Italy, summer 1983: a 17-year-old falls in love with the American graduate student staying with his family.",
+  "addedAt": "2026-10-31T10:28:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Call me by your name"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0080391",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Attack of the Killer Tomatoes!",
+  "englishTitle": "Attack of the Killer Tomatoes!",
+  "russianTitle": "Нападение помидоров-убийц",
+  "originalLanguage": "en",
+  "year": 1978,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Horror"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "John De Bello"
+  ],
+  "cast": [
+   "Cindy Charles",
+   "Joe Price",
+   "Gordon Ross"
+  ],
+  "runtime": "87 min",
+  "imdbId": "tt0080391",
+  "imdbRating": 4.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDE3Y2UxOWMtM2RkNC00ZjY1LTgyY2MtZDQwYzFhOWIxNDcxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A cult B-movie spoof in which mutant tomatoes rise up and terrorize humanity.",
+  "addedAt": "2026-10-31T10:29:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Нашествие помидоров убийц"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt5119260",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Orange Sunshine",
+  "englishTitle": "Orange Sunshine",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2016,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary",
+   "Adventure",
+   "Biography"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "William A. Kirkley"
+  ],
+  "cast": [
+   "Austin Arnold",
+   "Tyler Mauro",
+   "Francesca Galassi"
+  ],
+  "runtime": "105 min",
+  "imdbId": "tt5119260",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2ZlZjAyYmUtMzBlMy00MzliLWJhYWUtMWMyZDkyMWU4MDI4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Documentary about the Brotherhood of Eternal Love, Laguna Beach surfers who became the world’s biggest LSD smugglers in the late 1960s.",
+  "addedAt": "2026-10-31T10:30:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Orange sunshine"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1077368",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Dark Shadows",
+  "englishTitle": "Dark Shadows",
+  "russianTitle": "Мрачные тени",
+  "originalLanguage": "en",
+  "year": 2012,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Fantasy",
+   "Horror"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [
+   "Tim Burton"
+  ],
+  "cast": [
+   "Johnny Depp",
+   "Michelle Pfeiffer",
+   "Eva Green"
+  ],
+  "runtime": "113 min",
+  "imdbId": "tt1077368",
+  "imdbRating": 6.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjNiYWMxZjctMzEyZS00NDZmLTgxYmYtM2NmOGI0MmY3ZTJiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Tim Burton’s gothic comedy: a 200-year-old vampire wakes up in 1972 and tries to restore his eccentric descendants’ fortunes.",
+  "addedAt": "2026-10-31T10:31:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Dark shadows burton"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0914797",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Bottle Shock",
+  "englishTitle": "Bottle Shock",
+  "russianTitle": "Удар бутылкой",
+  "originalLanguage": "en",
+  "year": 2008,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Randall Miller"
+  ],
+  "cast": [
+   "Chris Pine",
+   "Alan Rickman",
+   "Bill Pullman"
+  ],
+  "runtime": "110 min",
+  "imdbId": "tt0914797",
+  "imdbRating": 6.8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTI5NjgzMzI0MV5BMl5BanBnXkFtZTcwMTI3MTc3MQ@@._V1_QL75_UX300_.jpg",
+  "description": "The true story of the 1976 “Judgment of Paris” blind tasting, where an underdog California wine beat the best of France.",
+  "addedAt": "2026-10-31T10:32:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Удар бутылкой"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "здесь-можно-жить",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Здесь можно жить",
+  "englishTitle": null,
+  "russianTitle": "Здесь можно жить",
+  "originalLanguage": "ru",
+  "year": null,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [],
+  "countries": [],
+  "directors": [],
+  "cast": [],
+  "runtime": null,
+  "imdbId": null,
+  "imdbRating": null,
+  "poster": null,
+  "description": null,
+  "addedAt": "2026-10-31T10:33:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Здесь можно жить фильм"
+  ],
+  "needsReview": true,
+  "reviewNote": "Couldn’t find a film with this title.",
+  "hidden": true
+ },
+ {
+  "id": "tt6752992",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Lazzaro felice",
+  "englishTitle": "Happy as Lazzaro",
+  "russianTitle": "Счастливый Лазарь",
+  "originalLanguage": "it",
+  "year": 2018,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Mystery"
+  ],
+  "countries": [
+   "Italy",
+   "Switzerland",
+   "France",
+   "Germany"
+  ],
+  "directors": [
+   "Alice Rohrwacher"
+  ],
+  "cast": [
+   "Adriano Tardiolo",
+   "Agnese Graziani",
+   "Alba Rohrwacher"
+  ],
+  "runtime": "128 min",
+  "imdbId": "tt6752992",
+  "imdbRating": 7.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGRhNWJjNDUtNTJmYi00NDY3LTgyMGEtMjMyOGE5MDE5ZDMyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Alice Rohrwacher’s fable about a kind-hearted young peasant exploited on a remote Italian tobacco estate, who mysteriously crosses time.",
+  "addedAt": "2026-10-31T10:34:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Счастливый лазарь"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8897390",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Процесс",
+  "englishTitle": "The Trial",
+  "russianTitle": "Процесс",
+  "originalLanguage": "ru",
+  "year": 2018,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary",
+   "History"
+  ],
+  "countries": [
+   "Netherlands",
+   "Russia"
+  ],
+  "directors": [
+   "Sergey Loznitsa"
+  ],
+  "cast": [
+   "Aleksandr Aleksandrovitch Fedotov",
+   "Ivan Andreevitch Kalinnikow",
+   "Nikolai Krylenko"
+  ],
+  "runtime": "129 min",
+  "imdbId": "tt8897390",
+  "imdbRating": 6.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjdmM2FjYTAtNTBjYi00Y2UwLWE0MDktZWM2ZDUwYmRiZGQzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Sergei Loznitsa’s archival documentary reconstructing the 1930 Stalinist show trial of the so-called Industrial Party.",
+  "addedAt": "2026-10-31T10:35:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Процесс сергей лозница"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8968158",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Домашний арест",
+  "englishTitle": "House Arrest",
+  "russianTitle": "Домашний арест",
+  "originalLanguage": "ru",
+  "year": 2018,
+  "endYear": null,
+  "kind": "series",
+  "genres": [
+   "Comedy"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [],
+  "cast": [
+   "Pavel Derevyanko",
+   "Aleksandr Robak",
+   "Anna Ukolova"
+  ],
+  "runtime": "72 min",
+  "imdbId": "tt8968158",
+  "imdbRating": 7.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzcxNTBmMTQtNjlkOS00OGNhLWI4ZDctZDQyZDUxNTlhNDFjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Semyon Slepakov’s comedy series: a corrupt small-town mayor is sentenced to house arrest — in the communal flat where he grew up.",
+  "addedAt": "2026-10-31T10:36:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Домашний арест сериаль"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt4971344",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Sisters Brothers",
+  "englishTitle": "The Sisters Brothers",
+  "russianTitle": "Братья Систерс",
+  "originalLanguage": "en",
+  "year": 2018,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Western"
+  ],
+  "countries": [
+   "France",
+   "Spain",
+   "Romania",
+   "Belgium",
+   "United States"
+  ],
+  "directors": [
+   "Jacques Audiard"
+  ],
+  "cast": [
+   "John C. Reilly",
+   "Joaquin Phoenix",
+   "Jake Gyllenhaal"
+  ],
+  "runtime": "121 min",
+  "imdbId": "tt4971344",
+  "imdbRating": 6.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMmY5MGZiMTQtYTc2YS00ZDU5LThmMmQtNTdmMDlmYjk1YWQyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Oregon, 1851: two hitman brothers chase a chemist who has invented a formula for finding gold.",
+  "addedAt": "2026-10-31T10:37:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Братья систерс"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0373469",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Kiss Kiss Bang Bang",
+  "englishTitle": "Kiss Kiss Bang Bang",
+  "russianTitle": "Поцелуй навылет",
+  "originalLanguage": "en",
+  "year": 2005,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Mystery"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Shane Black"
+  ],
+  "cast": [
+   "Robert Downey Jr.",
+   "Val Kilmer",
+   "Michelle Monaghan"
+  ],
+  "runtime": "103 min",
+  "imdbId": "tt0373469",
+  "imdbRating": 7.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY5NDExMDA3M15BMl5BanBnXkFtZTYwNTc2MzA3._V1_QL75_UX300_.jpg",
+  "description": "Shane Black’s neo-noir comedy: a petty thief posing as an actor gets mixed up in a Los Angeles murder with a hard-boiled private eye.",
+  "addedAt": "2026-10-31T10:38:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Кисс кисс бэнг бэнг"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt3397884",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Sicario",
+  "englishTitle": "Sicario",
+  "russianTitle": "Убийца",
+  "originalLanguage": "en",
+  "year": 2015,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama"
+  ],
+  "countries": [
+   "United States",
+   "Mexico",
+   "Hong Kong"
+  ],
+  "directors": [
+   "Denis Villeneuve"
+  ],
+  "cast": [
+   "Emily Blunt",
+   "Josh Brolin",
+   "Benicio Del Toro"
+  ],
+  "runtime": "122 min",
+  "imdbId": "tt3397884",
+  "imdbRating": 7.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_QL75_UX300_.jpg",
+  "description": "Denis Villeneuve’s thriller: an idealistic FBI agent joins a shadowy task force fighting a Mexican drug cartel on the U.S. border.",
+  "addedAt": "2026-10-31T10:39:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Сикарио вильнев"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0206634",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Children of Men",
+  "englishTitle": "Children of Men",
+  "russianTitle": "Дитя человеческое",
+  "originalLanguage": "en",
+  "year": 2006,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "countries": [
+   "United States",
+   "United Kingdom",
+   "Japan"
+  ],
+  "directors": [
+   "Alfonso Cuarón"
+  ],
+  "cast": [
+   "Julianne Moore",
+   "Clive Owen",
+   "Chiwetel Ejiofor"
+  ],
+  "runtime": "109 min",
+  "imdbId": "tt0206634",
+  "imdbRating": 7.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDNkNmNiYzYtYWY0YS00NWEwLTgwMWUtYjM0M2E4Nzk3MzhmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "In 2027, after 18 years of global infertility, a disillusioned bureaucrat must protect the first pregnant woman in nearly two decades.",
+  "addedAt": "2026-10-31T10:40:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Дитя человеческое."
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1219289",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": "Netflix",
+  "originalTitle": "Limitless",
+  "englishTitle": "Limitless",
+  "russianTitle": "Области тьмы",
+  "originalLanguage": "en",
+  "year": 2011,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Neil Burger"
+  ],
+  "cast": [
+   "Bradley Cooper",
+   "Anna Friel",
+   "Abbie Cornish"
+  ],
+  "runtime": "106 min",
+  "imdbId": "tt1219289",
+  "imdbRating": 7.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4OTQ4YzYtODlmMi00ZjA0LTg5M2QtZWUzNjA5N2NmODE5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A struggling writer takes a mysterious pill that unlocks the full power of his brain — with dangerous side effects.",
+  "addedAt": "2026-10-31T10:41:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Области тьмы",
+   "Limitless netflix…"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt3553976",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Captain Fantastic",
+  "englishTitle": "Captain Fantastic",
+  "russianTitle": "Капитан Фантастик",
+  "originalLanguage": "en",
+  "year": 2016,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Matt Ross"
+  ],
+  "cast": [
+   "Viggo Mortensen",
+   "George MacKay",
+   "Samantha Isler"
+  ],
+  "runtime": "119 min",
+  "imdbId": "tt3553976",
+  "imdbRating": 7.8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_QL75_UX300_.jpg",
+  "description": "A father raising his six children off the grid in the Pacific Northwest must bring them back into society after a family tragedy.",
+  "addedAt": "2026-10-31T10:42:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Капитан фантастик"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt2137109",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Masters of Sex",
+  "englishTitle": "Masters of Sex",
+  "russianTitle": "Мастера секса",
+  "originalLanguage": "en",
+  "year": 2013,
+  "endYear": 2016,
+  "kind": "series",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [],
+  "cast": [
+   "Michael Sheen",
+   "Lizzy Caplan",
+   "Caitlin FitzGerald"
+  ],
+  "runtime": "60 min",
+  "imdbId": "tt2137109",
+  "imdbRating": 7.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgzNjkzNjMxOF5BMl5BanBnXkFtZTgwMTcyMTg2OTE@._V1_QL75_UX300_.jpg",
+  "description": "The story of pioneering sex researchers William Masters and Virginia Johnson in 1950s–60s America.",
+  "addedAt": "2026-10-31T10:43:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Masters of sex"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1828995",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "La délicatesse",
+  "englishTitle": "Delicacy",
+  "russianTitle": "Нежность",
+  "originalLanguage": "fr",
+  "year": 2011,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "France"
+  ],
+  "directors": [
+   "David Foenkinos",
+   "Stéphane Foenkinos"
+  ],
+  "cast": [
+   "Audrey Tautou",
+   "François Damiens",
+   "Bruno Todeschini"
+  ],
+  "runtime": "108 min",
+  "imdbId": "tt1828995",
+  "imdbRating": 6.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjQxMWM5Y2EtYjhiZS00NjM1LWExNTQtYTc1ZDY2ODZhMzZmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A grieving young widow (Audrey Tautou) unexpectedly finds new love with an awkward Swedish co-worker.",
+  "addedAt": "2026-10-31T10:44:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Нежность"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt4765604",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Про любовь",
+  "englishTitle": "About Love",
+  "russianTitle": "Про любовь",
+  "originalLanguage": "ru",
+  "year": 2015,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Anna Melikyan"
+  ],
+  "cast": [
+   "Renata Litvinova",
+   "Mikhail Efremov",
+   "Mariya Shalaeva"
+  ],
+  "runtime": "115 min",
+  "imdbId": "tt4765604",
+  "imdbRating": 6.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0Mzg4M2YtMjE1Zi00ZjRiLWFhMjItMjkxNzZkN2ZiNGE1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Anna Melikian’s anthology of interlinked Moscow love stories, framed by a university lecture on love.",
+  "addedAt": "2026-10-31T10:45:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Про любовь"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt3205802",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "How to Get Away with Murder",
+  "englishTitle": "How to Get Away with Murder",
+  "russianTitle": "Как избежать наказания за убийство",
+  "originalLanguage": "en",
+  "year": 2014,
+  "endYear": 2020,
+  "kind": "series",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [],
+  "cast": [
+   "Viola Davis",
+   "Billy Brown",
+   "Jack Falahee"
+  ],
+  "runtime": "44 min",
+  "imdbId": "tt3205802",
+  "imdbRating": 8.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzFmY2ZjMGEtYzA3OS00OGZiLTkwMWItZjk2NDQ3MmQxMjQ5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A brilliant, ruthless law professor and five of her students become entangled in a murder plot.",
+  "addedAt": "2026-10-31T10:46:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Как избежать наказания за убийство"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt5945286",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Raving Iran",
+  "englishTitle": "Raving Iran",
+  "russianTitle": null,
+  "originalLanguage": "de",
+  "year": 2016,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary",
+   "Drama",
+   "Music"
+  ],
+  "countries": [
+   "Switzerland",
+   "Iran"
+  ],
+  "directors": [
+   "Susanne Regina Meures"
+  ],
+  "cast": [
+   "Anoosh Rakizade",
+   "Arash Shadram",
+   "Peyman Navidi Nahand"
+  ],
+  "runtime": "84 min",
+  "imdbId": "tt5945286",
+  "imdbRating": 7.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzZhYzc5YmQtNGRjOS00NGYwLWJmMWYtNjViMGY2NDYyNmRmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Two Tehran DJs risk prison to throw illegal techno parties — until an invitation to a Swiss festival offers a way out.",
+  "addedAt": "2026-10-31T10:47:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Raving riot"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt9584906",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Berlin Bouncer",
+  "englishTitle": "Berlin Bouncer",
+  "russianTitle": null,
+  "originalLanguage": "de",
+  "year": 2019,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary"
+  ],
+  "countries": [
+   "Germany"
+  ],
+  "directors": [
+   "David Dietl"
+  ],
+  "cast": [
+   "Sven Marquardt",
+   "Frank Künster",
+   "Smiley Baldwin"
+  ],
+  "runtime": "87 min",
+  "imdbId": "tt9584906",
+  "imdbRating": 6.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzUzNWQxMjEtOWFlNC00ZGI2LWJkMDEtYTgyOTdhMGEyMjNkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Documentary about three legendary Berlin club doormen, including Berghain’s Sven Marquardt, and the city’s nightlife since the Wall fell.",
+  "addedAt": "2026-10-31T10:48:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Berlin bouncer"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt3335606",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Berlin Syndrome",
+  "englishTitle": "Berlin Syndrome",
+  "russianTitle": "Берлинский синдром",
+  "originalLanguage": "en",
+  "year": 2017,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Horror",
+   "Mystery"
+  ],
+  "countries": [
+   "Australia"
+  ],
+  "directors": [
+   "Cate Shortland"
+  ],
+  "cast": [
+   "Teresa Palmer",
+   "Max Riemelt",
+   "Matthias Habich",
+   "Emma Bading"
+  ],
+  "runtime": "116 min",
+  "imdbId": "tt3335606",
+  "imdbRating": 6.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2JiMGQ3Y2UtMTM4Mi00MTAzLWE1ZTMtYjUxOWU3MjA0ZjQ5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "An Australian backpacker’s holiday romance in Berlin becomes a nightmare when her lover won’t let her leave his apartment.",
+  "addedAt": "2026-10-31T10:49:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Берлинский синдром триллер"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt2802850",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Fargo",
+  "englishTitle": "Fargo",
+  "russianTitle": "Фарго",
+  "originalLanguage": "en",
+  "year": 2014,
+  "endYear": 2024,
+  "kind": "series",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [],
+  "cast": [
+   "Billy Bob Thornton",
+   "Martin Freeman",
+   "Allison Tolman"
+  ],
+  "runtime": "52 min",
+  "imdbId": "tt2802850",
+  "imdbRating": 8.8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMzMTIzMTUwN15BMl5BanBnXkFtZTgwNjE0NTg0MTE@._V1_QL75_UX300_.jpg",
+  "description": "An anthology crime series inspired by the Coens’ film — each season a new tale of murder and mayhem in the snowy Midwest.",
+  "addedAt": "2026-10-31T10:50:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Фарго сериал"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt6155172",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Roma",
+  "englishTitle": "Roma",
+  "russianTitle": "Рома",
+  "originalLanguage": "es",
+  "year": 2018,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "Mexico",
+   "United States"
+  ],
+  "directors": [
+   "Alfonso Cuarón"
+  ],
+  "cast": [
+   "Yalitza Aparicio",
+   "Marina de Tavira",
+   "Diego Cortina Autrey"
+  ],
+  "runtime": "135 min",
+  "imdbId": "tt6155172",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_QL75_UX300_.jpg",
+  "description": "Alfonso Cuarón’s black-and-white memoir of a year in the life of a live-in housekeeper for a middle-class family in 1970s Mexico City.",
+  "addedAt": "2026-10-31T10:51:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Roma"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1164999",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Biutiful",
+  "englishTitle": "Biutiful",
+  "russianTitle": "Бьютифул",
+  "originalLanguage": "es",
+  "year": 2010,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "Mexico",
+   "Spain"
+  ],
+  "directors": [
+   "Alejandro G. Iñárritu"
+  ],
+  "cast": [
+   "Javier Bardem",
+   "Maricel Álvarez",
+   "Hanaa Bouchaib"
+  ],
+  "runtime": "148 min",
+  "imdbId": "tt1164999",
+  "imdbRating": 7.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzI4OTQ0MDQyNl5BMl5BanBnXkFtZTcwODY5MjQwNA@@._V1_QL75_UX300_.jpg",
+  "description": "Alejandro González Iñárritu’s drama about a dying man in Barcelona’s underworld trying to put his life in order for his children.",
+  "addedAt": "2026-10-31T10:52:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Biutiful"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0108399",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "True Romance",
+  "englishTitle": "True Romance",
+  "russianTitle": "Настоящая любовь",
+  "originalLanguage": "en",
+  "year": 1993,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States",
+   "France"
+  ],
+  "directors": [
+   "Tony Scott"
+  ],
+  "cast": [
+   "Christian Slater",
+   "Patricia Arquette",
+   "Dennis Hopper"
+  ],
+  "runtime": "119 min",
+  "imdbId": "tt0108399",
+  "imdbRating": 7.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzQ5OGMwMDAtMzcyOS00YTA4LWEwM2MtOTA1MDZjZGEyYmI1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A comic-book clerk and a call girl go on the run with a suitcase of the mob’s cocaine — written by Quentin Tarantino.",
+  "addedAt": "2026-10-31T10:53:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "True romance"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "agrippina-2020",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": "The Met: Live in HD (2020)",
+  "originalTitle": "Agrippina",
+  "englishTitle": "Agrippina",
+  "russianTitle": "Агриппина",
+  "originalLanguage": "it",
+  "year": 2020,
+  "endYear": null,
+  "kind": "opera",
+  "genres": [
+   "Music",
+   "Drama"
+  ],
+  "countries": [],
+  "directors": [],
+  "cast": [],
+  "runtime": null,
+  "imdbId": null,
+  "imdbRating": null,
+  "poster": null,
+  "description": "Handel’s opera of power games in ancient Rome, staged by David McVicar at the Metropolitan Opera with Joyce DiDonato in the title role.",
+  "addedAt": "2026-10-31T10:54:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Agripina opera"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt7905466",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "They Shall Not Grow Old",
+  "englishTitle": "They Shall Not Grow Old",
+  "russianTitle": "Они никогда не станут старше",
+  "originalLanguage": "en",
+  "year": 2018,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary",
+   "History",
+   "War"
+  ],
+  "countries": [
+   "United Kingdom",
+   "New Zealand"
+  ],
+  "directors": [
+   "Peter Jackson"
+  ],
+  "cast": [
+   "Thomas Adlam",
+   "William Argent",
+   "John Ashby"
+  ],
+  "runtime": "99 min",
+  "imdbId": "tt7905466",
+  "imdbRating": 8.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BOGMwNzc3NTQtY2QzZS00YzJmLTgyM2UtYjlkMjBjZTAwM2Y5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Peter Jackson restores and colorizes original WWI footage, narrated by the voices of the soldiers who were there.",
+  "addedAt": "2026-10-31T10:55:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "They shall not grow old"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt4857264",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Contratiempo",
+  "englishTitle": "The Invisible Guest",
+  "russianTitle": "Невидимый гость",
+  "originalLanguage": "es",
+  "year": 2016,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "countries": [
+   "Spain"
+  ],
+  "directors": [
+   "Oriol Paulo"
+  ],
+  "cast": [
+   "Mario Casas",
+   "Ana Wagener",
+   "Jose Coronado"
+  ],
+  "runtime": "107 min",
+  "imdbId": "tt4857264",
+  "imdbRating": 8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzZmOTc5ZjctMzAyZC00YmM1LThmNWUtM2UxNzFjMDcyYjAzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A businessman accused of murdering his lover has three hours to build his defense with a top witness-preparation lawyer.",
+  "addedAt": "2026-10-31T10:56:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Невидимый гость"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt6511932",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Beach Bum",
+  "englishTitle": "The Beach Bum",
+  "russianTitle": "Пляжный бездельник",
+  "originalLanguage": "en",
+  "year": 2019,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "Switzerland",
+   "United Kingdom",
+   "France",
+   "United States"
+  ],
+  "directors": [
+   "Harmony Korine"
+  ],
+  "cast": [
+   "Matthew McConaughey",
+   "Snoop Dogg",
+   "Isla Fisher"
+  ],
+  "runtime": "95 min",
+  "imdbId": "tt6511932",
+  "imdbRating": 5.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MDUzMTAzOV5BMl5BanBnXkFtZTgwNDk3ODQyNzM@._V1_QL75_UX300_.jpg",
+  "description": "Harmony Korine’s stoner comedy: Matthew McConaughey as Moondog, a hedonistic poet drifting through life in the Florida Keys.",
+  "addedAt": "2026-10-31T10:57:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Пляжный бездельник"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt3012698",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Olive Kitteridge",
+  "englishTitle": "Olive Kitteridge",
+  "russianTitle": "Что знает Оливия?",
+  "originalLanguage": "en",
+  "year": 2014,
+  "endYear": null,
+  "kind": "miniseries",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [],
+  "cast": [
+   "Frances McDormand",
+   "Richard Jenkins",
+   "Adam Freeman"
+  ],
+  "runtime": "59 min",
+  "imdbId": "tt3012698",
+  "imdbRating": 8.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWJlNWQ5ZmItMDRjMy00NjdhLTlkMzgtMDc2OWU0NWQzNmJlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "HBO miniseries following a sharp-tongued retired teacher in a small Maine town over 25 years.",
+  "addedAt": "2026-10-31T10:58:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Что знает оливия"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1924396",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "La migliore offerta",
+  "englishTitle": "The Best Offer",
+  "russianTitle": "Лучшее предложение",
+  "originalLanguage": "it",
+  "year": 2013,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "countries": [
+   "Italy"
+  ],
+  "directors": [
+   "Giuseppe Tornatore"
+  ],
+  "cast": [
+   "Geoffrey Rush",
+   "Jim Sturgess",
+   "Sylvia Hoeks"
+  ],
+  "runtime": "131 min",
+  "imdbId": "tt1924396",
+  "imdbRating": 7.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQ3NjA0N15BMl5BanBnXkFtZTgwODQyNjQ4MDE@._V1_QL75_UX300_.jpg",
+  "description": "Giuseppe Tornatore’s mystery about a reclusive art auctioneer who becomes obsessed with an heiress who never leaves her villa.",
+  "addedAt": "2026-10-31T10:59:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Deception лучшее предложение"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0114814",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Usual Suspects",
+  "englishTitle": "The Usual Suspects",
+  "russianTitle": "Подозрительные лица",
+  "originalLanguage": "en",
+  "year": 1995,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "countries": [
+   "United States",
+   "Germany"
+  ],
+  "directors": [
+   "Bryan Singer"
+  ],
+  "cast": [
+   "Kevin Spacey",
+   "Gabriel Byrne",
+   "Chazz Palminteri"
+  ],
+  "runtime": "106 min",
+  "imdbId": "tt0114814",
+  "imdbRating": 8.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A small-time con man tells police how five criminals were brought together by a mythical crime lord named Keyser Söze.",
+  "addedAt": "2026-10-31T11:00:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Подозрительные лица"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0120201",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Starship Troopers",
+  "englishTitle": "Starship Troopers",
+  "russianTitle": "Звёздный десант",
+  "originalLanguage": "en",
+  "year": 1997,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Paul Verhoeven"
+  ],
+  "cast": [
+   "Casper Van Dien",
+   "Denise Richards",
+   "Dina Meyer"
+  ],
+  "runtime": "129 min",
+  "imdbId": "tt0120201",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTNiOGM1ZWUtZTZjZC00OWJmLWE2YzUtZjQ4ODZjZmVlMDU3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Paul Verhoeven’s satirical sci-fi war film about young recruits of a militaristic future Earth fighting giant alien bugs.",
+  "addedAt": "2026-10-31T11:01:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Фашисты из будущего"
+  ],
+  "needsReview": true,
+  "reviewNote": "Guessed from “fascists from the future” — Verhoeven’s satire of a fascist future Earth.",
+  "hidden": false
+ },
+ {
+  "id": "tt0120885",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Wag the Dog",
+  "englishTitle": "Wag the Dog",
+  "russianTitle": "Плутовство",
+  "originalLanguage": "en",
+  "year": 1997,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Barry Levinson"
+  ],
+  "cast": [
+   "Dustin Hoffman",
+   "Robert De Niro",
+   "Anne Heche"
+  ],
+  "runtime": "97 min",
+  "imdbId": "tt0120885",
+  "imdbRating": 7.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNmEwNzk5ZTYtNGUzOC00ZThjLTk3NGYtMDQ5MzNiYzQ0ZTNkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A spin doctor and a Hollywood producer fake a war to distract voters from a presidential sex scandal.",
+  "addedAt": "2026-10-31T11:02:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Хвост виляет собакой"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0077222",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Белый Бим Чёрное ухо",
+  "englishTitle": "White Bim Black Ear",
+  "russianTitle": "Белый Бим Чёрное ухо",
+  "originalLanguage": "ru",
+  "year": 1977,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "Soviet Union"
+  ],
+  "directors": [
+   "Stanislav Rostotsky"
+  ],
+  "cast": [
+   "Vyacheslav Tikhonov",
+   "Valentina Vladimirova",
+   "Mikhail Dadyko"
+  ],
+  "runtime": "182 min",
+  "imdbId": "tt0077222",
+  "imdbRating": 8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjNhNmNkMzMtYTY1Ni00YWFiLWE3N2QtYjIwNzYzZDc4MDBhXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A loyal setter searches for his owner after the old man is taken to hospital, meeting both kindness and cruelty along the way.",
+  "addedAt": "2026-10-31T11:03:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Белый бим черное ухо",
+   "Белый бим черное"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0383008",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Теория запоя",
+  "englishTitle": "Theory of Binge",
+  "russianTitle": "Теория запоя",
+  "originalLanguage": "ru",
+  "year": 2003,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Natalja Pogonischewa"
+  ],
+  "cast": [
+   "Yaroslav Boyko",
+   "Dina Korzun",
+   "Sergei Artsybashev"
+  ],
+  "runtime": "69 min",
+  "imdbId": "tt0383008",
+  "imdbRating": 5.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzk4MDVkNTYtNTQ3NC00NjM5LThjMjUtZDkxMDJjNjIzNDY0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Russian comedy (2003) starring Yaroslav Boyko and Dina Korzun.",
+  "addedAt": "2026-10-31T11:04:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Теория запоя"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt4226388",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Victoria",
+  "englishTitle": "Victoria",
+  "russianTitle": "Виктория",
+  "originalLanguage": "de",
+  "year": 2015,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Crime",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "Germany",
+   "France",
+   "United States"
+  ],
+  "directors": [
+   "Sebastian Schipper"
+  ],
+  "cast": [
+   "Laia Costa",
+   "Frederick Lau",
+   "Franz Rogowski"
+  ],
+  "runtime": "138 min",
+  "imdbId": "tt4226388",
+  "imdbRating": 7.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NzQzNjk2NF5BMl5BanBnXkFtZTgwODU0MjI5NjE@._V1_QL75_UX300_.jpg",
+  "description": "Shot in one unbroken 138-minute take: a young Spanish woman in Berlin meets four locals at dawn and is pulled into a bank robbery.",
+  "addedAt": "2026-10-31T11:05:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Виктория 2015п"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt2764784",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Phoenix",
+  "englishTitle": "Phoenix",
+  "russianTitle": "Феникс",
+  "originalLanguage": "de",
+  "year": 2014,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "History",
+   "Music"
+  ],
+  "countries": [
+   "Germany",
+   "Poland"
+  ],
+  "directors": [
+   "Christian Petzold"
+  ],
+  "cast": [
+   "Nina Hoss",
+   "Ronald Zehrfeld",
+   "Nina Kunzendorf"
+  ],
+  "runtime": "98 min",
+  "imdbId": "tt2764784",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmMzNTI2YjAtN2M5Mi00YmVhLWFkMGItNjE4ZTJkZjY5ZmZlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Christian Petzold’s drama: a disfigured Holocaust survivor returns to Berlin, where her husband — who may have betrayed her — doesn’t recognize her.",
+  "addedAt": "2026-10-31T11:06:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Феникс 2014"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt2192582",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Баулина",
+  "note": null,
+  "originalTitle": "Рассказы",
+  "englishTitle": "Short Stories",
+  "russianTitle": "Рассказы",
+  "originalLanguage": "ru",
+  "year": 2012,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Mystery"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Mikhail Segal"
+  ],
+  "cast": [
+   "Andrey Merzlikin",
+   "Darya Nosik",
+   "Andrey Petrov"
+  ],
+  "runtime": "105 min",
+  "imdbId": "tt2192582",
+  "imdbRating": 6.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQ5Mzg3NjAtMTliNy00NTdhLTg0ODctMDg0M2QwODI0MDBiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Mikhail Segal’s witty anthology of four stories about modern Russia, linked by a manuscript that lands on a publisher’s desk.",
+  "addedAt": "2026-10-31T11:07:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Рассказы баулина"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0485947",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Мама",
+  "note": null,
+  "originalTitle": "Mr. Nobody",
+  "englishTitle": "Mr. Nobody",
+  "russianTitle": "Господин Никто",
+  "originalLanguage": "en",
+  "year": 2009,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Romance"
+  ],
+  "countries": [
+   "Belgium",
+   "Germany",
+   "Canada",
+   "France",
+   "United Kingdom",
+   "Luxembourg",
+   "United States"
+  ],
+  "directors": [
+   "Jaco Van Dormael"
+  ],
+  "cast": [
+   "Jared Leto",
+   "Sarah Polley",
+   "Diane Kruger"
+  ],
+  "runtime": "141 min",
+  "imdbId": "tt0485947",
+  "imdbRating": 7.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg4ODkzMDQ3Nl5BMl5BanBnXkFtZTgwNTEwMTkxMDE@._V1_QL75_UX300_.jpg",
+  "description": "The last mortal man on Earth, aged 118, recalls the many lives he could have lived depending on the choices he made.",
+  "addedAt": "2026-10-31T11:08:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Господин никто мама"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt7664504",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Three Identical Strangers",
+  "englishTitle": "Three Identical Strangers",
+  "russianTitle": "Три одинаковых незнакомца",
+  "originalLanguage": "en",
+  "year": 2018,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "Drama"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [
+   "Tim Wardle"
+  ],
+  "cast": [
+   "Robert Shafran",
+   "Michael Domnitz",
+   "Howard Schneider"
+  ],
+  "runtime": "97 min",
+  "imdbId": "tt7664504",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxYWE2YmItNzdiNi00OWQ3LThiNDctOTBjYjgwNWNlZGRiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Three young men discover by chance that they are identical triplets separated at birth — and uncover a disturbing secret behind it.",
+  "addedAt": "2026-10-31T11:09:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Three identical strangers"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt2963262",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Limonov: The Ballad",
+  "englishTitle": "Limonov: The Ballad of Eddie",
+  "russianTitle": "Лимонов, баллада об Эдичке",
+  "originalLanguage": "en",
+  "year": 2024,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "History",
+   "Drama"
+  ],
+  "countries": [
+   "Italy",
+   "France",
+   "Spain"
+  ],
+  "directors": [
+   "Kirill Serebrennikov"
+  ],
+  "cast": [
+   "Ben Whishaw",
+   "Viktoriya Miroshnichenko",
+   "Masha Mashkova"
+  ],
+  "runtime": "133 min",
+  "imdbId": "tt2963262",
+  "imdbRating": 5.8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTMzOTcwNzQtYWVlZi00YmUyLWI5ODAtNzRhMmJlNzQwMjM0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Kirill Serebrennikov’s portrait of poet, punk provocateur and political radical Eduard Limonov, played by Ben Whishaw.",
+  "addedAt": "2026-10-31T11:10:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Это эдик"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0375063",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Sideways",
+  "englishTitle": "Sideways",
+  "russianTitle": "На обочине",
+  "originalLanguage": "en",
+  "year": 2004,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Alexander Payne"
+  ],
+  "cast": [
+   "Paul Giamatti",
+   "Thomas Haden Church",
+   "Virginia Madsen"
+  ],
+  "runtime": "127 min",
+  "imdbId": "tt0375063",
+  "imdbRating": 7.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU0Mjg3MzkxOV5BMl5BanBnXkFtZTYwNDU1OTY3._V1_QL75_UX300_.jpg",
+  "description": "Two middle-aged friends take a week-long wine-tasting trip through California before one of them gets married.",
+  "addedAt": "2026-10-31T11:11:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "На обочине"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt2896898",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Mysteries of the Unseen World",
+  "englishTitle": "Mysteries of the Unseen World",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2013,
+  "endYear": null,
+  "kind": "short",
+  "genres": [
+   "Documentary",
+   "Short"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "directors": [
+   "Louie Schwartzberg"
+  ],
+  "cast": [
+   "Andrew Bankston",
+   "Payton Bourgeois",
+   "Elizabeth Donner",
+   "Shelby Farrell"
+  ],
+  "runtime": "39 min",
+  "imdbId": "tt2896898",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTc4MzU0M15BMl5BanBnXkFtZTgwOTc1NzY1NDE@._V1_QL75_UX300_.jpg",
+  "description": "National Geographic IMAX documentary revealing worlds too fast, too slow, too small or invisible to the human eye.",
+  "addedAt": "2026-10-31T11:12:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Mysteries of the unseen world"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0457939",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Holiday",
+  "englishTitle": "The Holiday",
+  "russianTitle": "Отпуск по обмену",
+  "originalLanguage": "en",
+  "year": 2006,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Nancy Meyers"
+  ],
+  "cast": [
+   "Kate Winslet",
+   "Cameron Diaz",
+   "Jude Law"
+  ],
+  "runtime": "136 min",
+  "imdbId": "tt0457939",
+  "imdbRating": 7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Two heartbroken women, one in Los Angeles and one in England, swap homes for Christmas and fall for local men.",
+  "addedAt": "2026-10-31T11:13:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "The holiday"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt7520794",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Russian Doll",
+  "englishTitle": "Russian Doll",
+  "russianTitle": "Жизнь матрёшки",
+  "originalLanguage": "en",
+  "year": 2019,
+  "endYear": 2022,
+  "kind": "series",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Mystery"
+  ],
+  "countries": [
+   "United States",
+   "Hungary"
+  ],
+  "directors": [],
+  "cast": [
+   "Natasha Lyonne",
+   "Charlie Barnett",
+   "Greta Lee"
+  ],
+  "runtime": "28 min",
+  "imdbId": "tt7520794",
+  "imdbRating": 7.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWRlM2ExMDEtOWJhZS00YTM4LWE5MDAtMWQ1NWFkOWRiODQ5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A New York game developer keeps dying and reliving the night of her 36th birthday party.",
+  "addedAt": "2026-10-31T11:14:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Жизнь матрешки"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt4565380",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "פאודה",
+  "englishTitle": "Fauda",
+  "russianTitle": "Фауда",
+  "originalLanguage": "he",
+  "year": 2015,
+  "endYear": null,
+  "kind": "series",
+  "genres": [
+   "Action",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "Israel"
+  ],
+  "directors": [],
+  "cast": [
+   "Lior Raz",
+   "Itzik Cohen",
+   "Yaakov Zada-Daniel"
+  ],
+  "runtime": "44 min",
+  "imdbId": "tt4565380",
+  "imdbRating": 8.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDNjNzhmM2ItYWM4Ni00ZThjLWE4N2YtODQ1MzRiYWQ0YzBlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "An Israeli undercover unit operates deep in the West Bank in this tense thriller series in Hebrew and Arabic.",
+  "addedAt": "2026-10-31T11:15:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Фауда сериал"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "времена-негодяев",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Времена негодяев",
+  "englishTitle": null,
+  "russianTitle": "Времена негодяев",
+  "originalLanguage": "ru",
+  "year": null,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [],
+  "countries": [],
+  "directors": [],
+  "cast": [],
+  "runtime": null,
+  "imdbId": null,
+  "imdbRating": null,
+  "poster": null,
+  "description": null,
+  "addedAt": "2026-10-31T11:16:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Геворкян времена негодяев"
+  ],
+  "needsReview": true,
+  "reviewNote": "Looks like a book — Eduard Gevorkyan’s sci-fi novel, not a film.",
+  "hidden": true
+ },
+ {
+  "id": "tt11083552",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Wrath of Man",
+  "englishTitle": "Wrath of Man",
+  "russianTitle": "Гнев человеческий",
+  "originalLanguage": "en",
+  "year": 2021,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Crime",
+   "Thriller"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [
+   "Guy Ritchie"
+  ],
+  "cast": [
+   "Jason Statham",
+   "Holt McCallany",
+   "Josh Hartnett"
+  ],
+  "runtime": "119 min",
+  "imdbId": "tt11083552",
+  "imdbRating": 7.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Guy Ritchie’s heist thriller: a mysterious new guard at a cash-truck company reveals deadly skills during a robbery.",
+  "addedAt": "2026-10-31T11:17:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Гнев человеческий"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8320378",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "История одного назначения",
+  "englishTitle": "The Story of One Appointment",
+  "russianTitle": "История одного назначения",
+  "originalLanguage": "ru",
+  "year": 2018,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "History"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Avdotya Smirnova"
+  ],
+  "cast": [
+   "Aleksey Smirnov",
+   "Filipp Gurevich",
+   "Evgeniy Kharitonov"
+  ],
+  "runtime": "112 min",
+  "imdbId": "tt8320378",
+  "imdbRating": 6.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWQ2MDE5MDctYWNjMC00YTExLWEyZjktZGFhMzBhZGE5MjkwXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Avdotya Smirnova’s drama based on a real episode from Leo Tolstoy’s life: a young officer tries to save a soldier facing a military tribunal.",
+  "addedAt": "2026-10-31T11:18:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "История одного назначения"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt15251228",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Турист",
+  "englishTitle": "Tourist",
+  "russianTitle": "Турист",
+  "originalLanguage": "ru",
+  "year": 2021,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Andrey Shcherbinin"
+  ],
+  "cast": [
+   "Aleksey Shevchenkov",
+   "Aleksandr Baranovskiy",
+   "Vladimir Petrov"
+  ],
+  "runtime": "99 min",
+  "imdbId": "tt15251228",
+  "imdbRating": 5.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2JjMTk0YzEtNzdkYi00YzQxLThhM2MtYzI4NzgwNTk2NWZkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Russian action film about military instructors caught in a coup in the Central African Republic.",
+  "addedAt": "2026-10-31T11:19:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Актер про ЦАР"
+  ],
+  "needsReview": true,
+  "reviewNote": "Guessed from “Актер про ЦАР” — the 2021 film about Russian instructors in the Central African Republic.",
+  "hidden": false
+ },
+ {
+  "id": "tt1602620",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Amour",
+  "englishTitle": "Amour",
+  "russianTitle": "Любовь",
+  "originalLanguage": "fr",
+  "year": 2012,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "France",
+   "Germany",
+   "Austria"
+  ],
+  "directors": [
+   "Michael Haneke"
+  ],
+  "cast": [
+   "Jean-Louis Trintignant",
+   "Emmanuelle Riva",
+   "Isabelle Huppert"
+  ],
+  "runtime": "127 min",
+  "imdbId": "tt1602620",
+  "imdbRating": 7.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_QL75_UX300_.jpg",
+  "description": "Michael Haneke’s Palme d’Or winner: an elderly Parisian couple’s love is tested after the wife suffers a stroke.",
+  "addedAt": "2026-10-31T11:20:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Люблвь ханеке"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt12682218",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Scenes from a Marriage",
+  "englishTitle": "Scenes from a Marriage",
+  "russianTitle": "Сцены из супружеской жизни",
+  "originalLanguage": "en",
+  "year": 2021,
+  "endYear": null,
+  "kind": "miniseries",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [],
+  "cast": [
+   "Jessica Chastain",
+   "Oscar Isaac",
+   "Sophia Kopera"
+  ],
+  "runtime": "59 min",
+  "imdbId": "tt12682218",
+  "imdbRating": 8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDBiNWZjZjUtODJiMC00OGEwLWIwYTItMDNmZjdmN2M3NjY0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Oscar Isaac and Jessica Chastain in HBO’s modern remake of Ingmar Bergman’s intimate portrait of a marriage falling apart.",
+  "addedAt": "2026-10-31T11:21:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Супружеская жизнь"
+  ],
+  "needsReview": true,
+  "reviewNote": "Matched to HBO’s 2021 miniseries; could be Bergman’s 1973 original.",
+  "hidden": false
+ },
+ {
+  "id": "tt1294688",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Last Night",
+  "englishTitle": "Last Night",
+  "russianTitle": "Прошлой ночью в Нью-Йорке",
+  "originalLanguage": "en",
+  "year": 2010,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United Kingdom",
+   "France",
+   "India",
+   "United States"
+  ],
+  "directors": [
+   "Massy Tadjedin"
+  ],
+  "cast": [
+   "Keira Knightley",
+   "Sam Worthington",
+   "Eva Mendes"
+  ],
+  "runtime": "93 min",
+  "imdbId": "tt1294688",
+  "imdbRating": 6.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTk1Nzc5OTkwN15BMl5BanBnXkFtZTcwNjEyMTA4NA@@._V1_QL75_UX300_.jpg",
+  "description": "A married New York couple spends one night apart, each tempted by someone else.",
+  "addedAt": "2026-10-31T11:22:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Last night"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt10370822",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "唐人街探案3",
+  "englishTitle": "Detective Chinatown 3",
+  "russianTitle": "Детектив из Чайнатауна 3",
+  "originalLanguage": "zh",
+  "year": 2021,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Comedy"
+  ],
+  "countries": [
+   "China"
+  ],
+  "directors": [
+   "Sicheng Chen"
+  ],
+  "cast": [
+   "Baoqiang Wang",
+   "Haoran Liu",
+   "Satoshi Tsumabuki"
+  ],
+  "runtime": "136 min",
+  "imdbId": "tt10370822",
+  "imdbRating": 5.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDY0YjMxMWYtOWViYS00OGU4LTkyNmEtOThmNTJkNTRiMTk5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "The bumbling detective duo heads to Tokyo to crack a locked-room murder in this blockbuster Chinese comedy.",
+  "addedAt": "2026-10-31T11:23:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Detective chinatown 3"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt4171032",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "World of Tomorrow",
+  "englishTitle": "World of Tomorrow",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2015,
+  "endYear": null,
+  "kind": "short",
+  "genres": [
+   "Animation",
+   "Short",
+   "Comedy"
+  ],
+  "countries": [
+   "USA"
+  ],
+  "directors": [
+   "Don Hertzfeldt"
+  ],
+  "cast": [
+   "Winona Mae",
+   "Julia Pott"
+  ],
+  "runtime": "17 min",
+  "imdbId": "tt4171032",
+  "imdbRating": 8.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2Y2Y2U3MDgtZmFkYi00YzRmLTllMDQtYTlmMjg3Nzc3MmE3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Don Hertzfeldt’s Oscar-nominated animated short: a little girl is visited by her clone from the distant future.",
+  "addedAt": "2026-10-31T11:24:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "World of tomorrow"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8368512",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Courier",
+  "englishTitle": "The Courier",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2020,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "History",
+   "Mystery"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States",
+   "Czech Republic"
+  ],
+  "directors": [
+   "Dominic Cooke"
+  ],
+  "cast": [
+   "Benedict Cumberbatch",
+   "Merab Ninidze",
+   "Rachel Brosnahan"
+  ],
+  "runtime": "112 min",
+  "imdbId": "tt8368512",
+  "imdbRating": 7.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTJlOTIwNjItYjZiMS00Njc3LThkMDgtNWVhNGUxNzBlYWE3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Benedict Cumberbatch as a British businessman recruited by MI6 to smuggle secrets out of the Soviet Union at the height of the Cold War.",
+  "addedAt": "2026-10-31T11:25:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Courier"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt14544192",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": "Netflix",
+  "originalTitle": "Bo Burnham: Inside",
+  "englishTitle": "Bo Burnham: Inside",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2021,
+  "endYear": null,
+  "kind": "special",
+  "genres": [
+   "Documentary",
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Bo Burnham"
+  ],
+  "cast": [
+   "Bo Burnham"
+  ],
+  "runtime": "88 min",
+  "imdbId": "tt14544192",
+  "imdbRating": 8.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjY5NzI4YWMtM2ZmYy00MzhlLThhZjctOGViOWQyYzRlOGExXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A comedy special written, shot and performed by Bo Burnham alone in one room during the pandemic.",
+  "addedAt": "2026-10-31T11:26:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Bo burnham inside netflix"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1340800",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Tinker Tailor Soldier Spy",
+  "englishTitle": "Tinker Tailor Soldier Spy",
+  "russianTitle": "Шпион, выйди вон!",
+  "originalLanguage": "en",
+  "year": 2011,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "countries": [
+   "United Kingdom",
+   "France",
+   "Germany",
+   "United States",
+   "Hungary",
+   "Turkey"
+  ],
+  "directors": [
+   "Tomas Alfredson"
+  ],
+  "cast": [
+   "Gary Oldman",
+   "Colin Firth",
+   "Tom Hardy"
+  ],
+  "runtime": "127 min",
+  "imdbId": "tt1340800",
+  "imdbRating": 7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU2OTkwNzMyM15BMl5BanBnXkFtZTcwOTI4ODg2Ng@@._V1_QL75_UX300_.jpg",
+  "description": "In the 1970s, retired spy George Smiley is brought back to hunt a Soviet mole at the top of British intelligence.",
+  "addedAt": "2026-10-31T11:27:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Tinker Tailor Soldier Spy"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0097165",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Dead Poets Society",
+  "englishTitle": "Dead Poets Society",
+  "russianTitle": "Общество мёртвых поэтов",
+  "originalLanguage": "en",
+  "year": 1989,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Peter Weir"
+  ],
+  "cast": [
+   "Robin Williams",
+   "Robert Sean Leonard",
+   "Ethan Hawke"
+  ],
+  "runtime": "129 min",
+  "imdbId": "tt0097165",
+  "imdbRating": 8.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "An unorthodox English teacher inspires his students at a strict boys’ prep school to seize the day.",
+  "addedAt": "2026-10-31T11:28:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Dead poet society"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "corella",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Ricardo",
+  "note": null,
+  "originalTitle": "Corella",
+  "englishTitle": null,
+  "russianTitle": null,
+  "originalLanguage": "es",
+  "year": null,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [],
+  "countries": [],
+  "directors": [],
+  "cast": [],
+  "runtime": null,
+  "imdbId": null,
+  "imdbRating": null,
+  "poster": null,
+  "description": null,
+  "addedAt": "2026-10-31T11:29:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Corella film ricardo"
+  ],
+  "needsReview": true,
+  "reviewNote": "Couldn’t identify — maybe a documentary about dancer Ángel Corella?",
+  "hidden": true
+ },
+ {
+  "id": "tt2707408",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Narcos",
+  "englishTitle": "Narcos",
+  "russianTitle": "Нарко",
+  "originalLanguage": "en",
+  "year": 2015,
+  "endYear": 2017,
+  "kind": "series",
+  "genres": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "countries": [
+   "United States",
+   "Colombia"
+  ],
+  "directors": [],
+  "cast": [
+   "Pedro Pascal",
+   "Wagner Moura",
+   "Boyd Holbrook"
+  ],
+  "runtime": "52 min",
+  "imdbId": "tt2707408",
+  "imdbRating": 8.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_QL75_UX300_.jpg",
+  "description": "The rise and fall of Pablo Escobar and the Colombian cocaine cartels, told through the DEA agents hunting them.",
+  "addedAt": "2026-10-31T11:30:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Narco series"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt1751634",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Sandman",
+  "englishTitle": "The Sandman",
+  "russianTitle": "Песочный человек",
+  "originalLanguage": "en",
+  "year": 2022,
+  "endYear": 2025,
+  "kind": "series",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Horror"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [],
+  "cast": [
+   "Tom Sturridge",
+   "Vivienne Acheampong",
+   "Patton Oswalt"
+  ],
+  "runtime": "52 min",
+  "imdbId": "tt1751634",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk0M2ZhZTQtZjQ0NC00ODA2LWFkN2ItMTA0ZTc0MjJjODg0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Based on Neil Gaiman’s comics: Dream, lord of the dream world, escapes a century of captivity and sets out to restore his realm.",
+  "addedAt": "2026-10-31T11:31:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Neil gayman the sandman"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt12262116",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Печенихина",
+  "note": null,
+  "originalTitle": "Thirteen Lives",
+  "englishTitle": "Thirteen Lives",
+  "russianTitle": "Тринадцать жизней",
+  "originalLanguage": "en",
+  "year": 2022,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Biography",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "United Kingdom",
+   "Canada",
+   "United States"
+  ],
+  "directors": [
+   "Ron Howard"
+  ],
+  "cast": [
+   "Viggo Mortensen",
+   "Colin Farrell",
+   "Joel Edgerton"
+  ],
+  "runtime": "147 min",
+  "imdbId": "tt12262116",
+  "imdbRating": 7.8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGRmYzg2NTUtMjc3Yy00Njc4LTliNTktM2I1NjVkNGIzYTU2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Ron Howard’s account of the 2018 rescue of a Thai youth football team trapped in a flooded cave.",
+  "addedAt": "2026-10-31T11:32:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "13 lives (pechenihina)"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt15301048",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Seb Cao",
+  "note": null,
+  "originalTitle": "Argentina, 1985",
+  "englishTitle": "Argentina, 1985",
+  "russianTitle": "Аргентина, 1985",
+  "originalLanguage": "es",
+  "year": 2022,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "countries": [
+   "Argentina",
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [
+   "Santiago Mitre"
+  ],
+  "cast": [
+   "Ricardo Darín",
+   "Gina Mastronicola",
+   "Francisco Bertín"
+  ],
+  "runtime": "141 min",
+  "imdbId": "tt15301048",
+  "imdbRating": 7.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGQxYTQyNDUtNmZkMi00MzQ4LWFhMTktNTYzOGQ1ZGMzYjQ2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Prosecutors Julio Strassera and Luis Moreno Ocampo take on the leaders of Argentina’s military dictatorship in a historic trial.",
+  "addedAt": "2026-10-31T11:33:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Argentina 1985 (seb cao)"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt13640696",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "See How They Run",
+  "englishTitle": "See How They Run",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2022,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Crime",
+   "Mystery"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [
+   "Tom George"
+  ],
+  "cast": [
+   "Kieran Hodgson",
+   "Pearl Chanda",
+   "Gregory Cox"
+  ],
+  "runtime": "99 min",
+  "imdbId": "tt13640696",
+  "imdbRating": 6.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGNiNDNlNjQtMGEzMC00NmNjLWJhYWYtODBhNjQ3Mjc2YjZmXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "1950s London: a weary inspector and an eager rookie investigate a murder backstage at a West End production of The Mousetrap.",
+  "addedAt": "2026-10-31T11:34:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "See how the run"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt12593682",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Bullet Train",
+  "englishTitle": "Bullet Train",
+  "russianTitle": "Быстрее пули",
+  "originalLanguage": "en",
+  "year": 2022,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Comedy",
+   "Thriller"
+  ],
+  "countries": [
+   "United States",
+   "Japan",
+   "United Kingdom"
+  ],
+  "directors": [
+   "David Leitch"
+  ],
+  "cast": [
+   "Brad Pitt",
+   "Joey King",
+   "Aaron Taylor-Johnson"
+  ],
+  "runtime": "126 min",
+  "imdbId": "tt12593682",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "An unlucky assassin on a Tokyo–Kyoto bullet train discovers several other killers on board with connected missions.",
+  "addedAt": "2026-10-31T11:35:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Bullet train"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt4873118",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Guy Ritchie's The Covenant",
+  "englishTitle": "The Covenant",
+  "russianTitle": "Переводчик",
+  "originalLanguage": "en",
+  "year": 2023,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "United Kingdom",
+   "Spain",
+   "United States"
+  ],
+  "directors": [
+   "Guy Ritchie"
+  ],
+  "cast": [
+   "Jake Gyllenhaal",
+   "Dar Salim",
+   "Sean Sagar"
+  ],
+  "runtime": "123 min",
+  "imdbId": "tt4873118",
+  "imdbRating": 7.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDY2NmI1YzAtYmE2OS00NTY4LWJjM2UtNjQzMDliYzc5MzUyXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A U.S. Army sergeant goes back into Afghanistan to rescue the interpreter who saved his life.",
+  "addedAt": "2026-10-31T11:36:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "The covenant guy ritchie"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt11858890",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Creator",
+  "englishTitle": "The Creator",
+  "russianTitle": "Создатель",
+  "originalLanguage": "en",
+  "year": 2023,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "countries": [
+   "United States",
+   "Japan",
+   "Cambodia"
+  ],
+  "directors": [
+   "Gareth Edwards"
+  ],
+  "cast": [
+   "John David Washington",
+   "Madeleine Yuna Voyles",
+   "Gemma Chan"
+  ],
+  "runtime": "134 min",
+  "imdbId": "tt11858890",
+  "imdbRating": 6.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDkxMTUxOTQtYzM4Yi00YzA2LTgzOTYtNDg2NTliODE0ZTRjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Gareth Edwards’ sci-fi: in a war between humans and AI, an ex-soldier finds that the enemy’s secret weapon is an AI in the form of a child.",
+  "addedAt": "2026-10-31T11:37:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "The creator film"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0119217",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Good Will Hunting",
+  "englishTitle": "Good Will Hunting",
+  "russianTitle": "Умница Уилл Хантинг",
+  "originalLanguage": "en",
+  "year": 1997,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Gus Van Sant"
+  ],
+  "cast": [
+   "Robin Williams",
+   "Matt Damon",
+   "Ben Affleck"
+  ],
+  "runtime": "127 min",
+  "imdbId": "tt0119217",
+  "imdbRating": 8.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A self-taught genius working as a janitor at MIT confronts his past with the help of a therapist.",
+  "addedAt": "2026-10-31T11:38:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "William hunting"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0120655",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Dogma",
+  "englishTitle": "Dogma",
+  "russianTitle": "Догма",
+  "originalLanguage": "en",
+  "year": 1999,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Kevin Smith"
+  ],
+  "cast": [
+   "Ben Affleck",
+   "Matt Damon",
+   "Linda Fiorentino"
+  ],
+  "runtime": "130 min",
+  "imdbId": "tt0120655",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDE1Yjc3N2UtZmYwNi00YTA3LTllNGEtZTIwODg2MmMwNjBjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Kevin Smith’s irreverent comedy: two fallen angels find a loophole to get back into heaven — which would unmake all of existence.",
+  "addedAt": "2026-10-31T11:39:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Dogma"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt28607951",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Anora",
+  "englishTitle": "Anora",
+  "russianTitle": "Анора",
+  "originalLanguage": "en",
+  "year": 2024,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Sean Baker"
+  ],
+  "cast": [
+   "Mikey Madison",
+   "Paul Weissman",
+   "Lindsey Normington"
+  ],
+  "runtime": "139 min",
+  "imdbId": "tt28607951",
+  "imdbRating": 7.4,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Sean Baker’s Palme d’Or winner: a Brooklyn stripper impulsively marries the son of a Russian oligarch — until his family arrives to annul it.",
+  "addedAt": "2026-10-31T11:40:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Anora"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt8999762",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Brutalist",
+  "englishTitle": "The Brutalist",
+  "russianTitle": "Бруталист",
+  "originalLanguage": "en",
+  "year": 2024,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "United Kingdom",
+   "Canada",
+   "United States"
+  ],
+  "directors": [
+   "Brady Corbet"
+  ],
+  "cast": [
+   "Adrien Brody",
+   "Felicity Jones",
+   "Guy Pearce"
+  ],
+  "runtime": "215 min",
+  "imdbId": "tt8999762",
+  "imdbRating": 7.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A visionary Hungarian-Jewish architect who survived the Holocaust rebuilds his life in postwar America under a wealthy, controlling patron.",
+  "addedAt": "2026-10-31T11:41:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "The brutalist"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt10627720",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "哪吒之魔童降世",
+  "englishTitle": "Ne Zha",
+  "russianTitle": "Нэчжа",
+  "originalLanguage": "zh",
+  "year": 2019,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Animation",
+   "Action",
+   "Adventure"
+  ],
+  "countries": [
+   "China"
+  ],
+  "directors": [
+   "Yu Yang"
+  ],
+  "cast": [
+   "Yanting Lü",
+   "Joseph",
+   "Mo Han"
+  ],
+  "runtime": "110 min",
+  "imdbId": "tt10627720",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTNmNWFjZmItMDNkNy00MmFiLTk4ZjktMjUzY2RiZTgxMzJkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Record-breaking Chinese animation reimagining the myth of Ne Zha, a boy born as a demon’s incarnation who refuses to accept his fate.",
+  "addedAt": "2026-10-31T11:42:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Ne zha"
+  ],
+  "needsReview": true,
+  "reviewNote": "Matched to the 2019 original; the 2025 sequel Ne Zha 2 is the record-breaker.",
+  "hidden": false
+ },
+ {
+  "id": "tt10485250",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Laurent Garnier: Off the Record",
+  "englishTitle": "Laurent Garnier: Off the Record",
+  "russianTitle": null,
+  "originalLanguage": "fr",
+  "year": 2021,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary",
+   "Music"
+  ],
+  "countries": [
+   "United Kingdom"
+  ],
+  "directors": [
+   "Gabin Rivoire"
+  ],
+  "cast": [
+   "Laurent Garnier",
+   "Abd Al Malik",
+   "Ellen Allien"
+  ],
+  "runtime": "90 min",
+  "imdbId": "tt10485250",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzFlMDVmYTUtNjg0Mi00MzM2LWEwZDMtOGM1NDM0OGI1ZjBjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Documentary about French techno pioneer Laurent Garnier and three decades of electronic music and rave culture.",
+  "addedAt": "2026-10-31T11:43:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Laurent Garnier: Off the Record"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "seth-godin-apple-tv",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Seth Godin (Apple TV)",
+  "englishTitle": null,
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": null,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [],
+  "countries": [],
+  "directors": [],
+  "cast": [],
+  "runtime": null,
+  "imdbId": null,
+  "imdbRating": null,
+  "poster": null,
+  "description": null,
+  "addedAt": "2026-10-31T11:44:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Seth godin apple tv"
+  ],
+  "needsReview": true,
+  "reviewNote": "Couldn’t find a Seth Godin film or show on Apple TV.",
+  "hidden": true
+ },
+ {
+  "id": "tt35520315",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": "Aliens / UFOs",
+  "originalTitle": "The Age of Disclosure",
+  "englishTitle": "The Age of Disclosure",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2025,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Dan Farah"
+  ],
+  "cast": [
+   "Jay Stratton",
+   "Luis Elizondo",
+   "Harold Puthoff"
+  ],
+  "runtime": "109 min",
+  "imdbId": "tt35520315",
+  "imdbRating": 6.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzExZmFjYjctYzlmNS00YmJlLTk2OWUtZThlYjU4Y2RlMDhlXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Documentary in which U.S. government, military and intelligence insiders describe decades of secrecy around UFOs.",
+  "addedAt": "2026-10-31T11:45:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "The age of disclosure video - aliens"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt9059704",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Попович",
+  "note": null,
+  "originalTitle": "An American Pickle",
+  "englishTitle": "An American Pickle",
+  "russianTitle": "Американский огурчик",
+  "originalLanguage": "en",
+  "year": 2020,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Fantasy"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [
+   "Brandon Trost"
+  ],
+  "cast": [
+   "Seth Rogen",
+   "Sarah Snook",
+   "Molly Evensen"
+  ],
+  "runtime": "89 min",
+  "imdbId": "tt9059704",
+  "imdbRating": 5.7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGU4MjY5MzYtZjhmOC00YzRiLTg4OTYtZDAwN2IxN2IyY2I0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A Jewish immigrant laborer is preserved in brine for 100 years and wakes up in modern Brooklyn, where he meets his only descendant.",
+  "addedAt": "2026-10-31T11:46:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "The american pickle попович смотреть"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt3579808",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Вован",
+  "note": null,
+  "originalTitle": "Страна ОЗ",
+  "englishTitle": "The Land of Oz",
+  "russianTitle": "Страна ОЗ",
+  "originalLanguage": "ru",
+  "year": 2015,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy"
+  ],
+  "countries": [
+   "Russia"
+  ],
+  "directors": [
+   "Vasiliy Sigarev"
+  ],
+  "cast": [
+   "Yana Troyanova",
+   "Gosha Kutsenko",
+   "West Highland Bonya"
+  ],
+  "runtime": "95 min",
+  "imdbId": "tt3579808",
+  "imdbRating": 6.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E2NjUyNmUtZDVlYy00ZmM3LWFhOTAtMGI1NjljMjA0ZGFkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Vasily Sigarev’s absurdist comedy: a young woman wanders Yekaterinburg on New Year’s Eve, meeting a string of bizarre characters.",
+  "addedAt": "2026-10-31T11:47:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Страна оз Фильм вован"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt12908150",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Life of Chuck",
+  "englishTitle": "The Life of Chuck",
+  "russianTitle": "Жизнь Чака",
+  "originalLanguage": "en",
+  "year": 2024,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Drama",
+   "Fantasy",
+   "Sci-Fi"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Mike Flanagan"
+  ],
+  "cast": [
+   "Tom Hiddleston",
+   "Jacob Tremblay",
+   "Benjamin Pajak"
+  ],
+  "runtime": "111 min",
+  "imdbId": "tt12908150",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDhlMzJhMTgtN2FhZS00OWQ1LTk3Y2ItZGNiNTQ0ZmUzYmIzXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Mike Flanagan’s adaptation of Stephen King’s story, told in reverse, about the extraordinary life of an ordinary man.",
+  "addedAt": "2026-10-31T11:48:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Жизнь чака"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt21279806",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": "About the Prince Andrew interview",
+  "originalTitle": "Scoop",
+  "englishTitle": "Scoop",
+  "russianTitle": "Сенсация",
+  "originalLanguage": "en",
+  "year": 2024,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Biography",
+   "Drama"
+  ],
+  "countries": [
+   "United Kingdom"
+  ],
+  "directors": [
+   "Philip Martin"
+  ],
+  "cast": [
+   "Billie Piper",
+   "Gillian Anderson",
+   "Rufus Sewell"
+  ],
+  "runtime": "103 min",
+  "imdbId": "tt21279806",
+  "imdbRating": 6.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDY1ZmQ1YTAtMzk1OC00ZGFmLWEwMDYtYjQxNjQ4NGRkMWQ4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "The story behind the BBC Newsnight team’s explosive 2019 interview with Prince Andrew.",
+  "addedAt": "2026-10-31T11:49:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Сенсация (про корону 24)"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt17279496",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Баулина",
+  "note": null,
+  "originalTitle": "Civil War",
+  "englishTitle": "Civil War",
+  "russianTitle": "Падение империи",
+  "originalLanguage": "en",
+  "year": 2024,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Action",
+   "Thriller",
+   "War"
+  ],
+  "countries": [
+   "United States",
+   "United Kingdom",
+   "Finland"
+  ],
+  "directors": [
+   "Alex Garland"
+  ],
+  "cast": [
+   "Kirsten Dunst",
+   "Wagner Moura",
+   "Cailee Spaeny"
+  ],
+  "runtime": "109 min",
+  "imdbId": "tt17279496",
+  "imdbRating": 7,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTkzMjc0YzgtY2E0Yi00NDBlLWI0MWUtODY1ZjExMDAyOWZiXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Alex Garland’s thriller: in a near-future America torn apart by civil war, a team of journalists races to reach Washington.",
+  "addedAt": "2026-10-31T11:50:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "civil war (баулина)"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0062622",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "2001: A Space Odyssey",
+  "englishTitle": "2001: A Space Odyssey",
+  "russianTitle": "Космическая одиссея 2001 года",
+  "originalLanguage": "en",
+  "year": 1968,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Adventure",
+   "Sci-Fi"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States"
+  ],
+  "directors": [
+   "Stanley Kubrick"
+  ],
+  "cast": [
+   "Keir Dullea",
+   "Gary Lockwood",
+   "William Sylvester"
+  ],
+  "runtime": "149 min",
+  "imdbId": "tt0062622",
+  "imdbRating": 8.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Stanley Kubrick’s landmark sci-fi epic, from the dawn of man to a mission to Jupiter with the computer HAL 9000.",
+  "addedAt": "2026-10-31T11:51:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Кубрик космическая одиссея"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0076786",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Бутербродик",
+  "note": null,
+  "originalTitle": "Suspiria",
+  "englishTitle": "Suspiria",
+  "russianTitle": "Суспирия",
+  "originalLanguage": "it",
+  "year": 1977,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Horror"
+  ],
+  "countries": [
+   "Italy"
+  ],
+  "directors": [
+   "Dario Argento"
+  ],
+  "cast": [
+   "Jessica Harper",
+   "Stefania Casini",
+   "Flavio Bucci"
+  ],
+  "runtime": "99 min",
+  "imdbId": "tt0076786",
+  "imdbRating": 7.3,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGIyYmI3ZjMtODI3ZC00NGQwLTk3ZGUtYWU4MDE3MzI3ZTk1XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Dario Argento’s lurid horror classic: an American ballet student discovers her prestigious German dance academy is run by witches.",
+  "addedAt": "2026-10-31T11:52:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Суспирия - бутербродик"
+  ],
+  "needsReview": true,
+  "reviewNote": "Matched to Dario Argento’s 1977 original; could be Guadagnino’s 2018 remake.",
+  "hidden": false
+ },
+ {
+  "id": "tt3412684",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Аня (коливинг)",
+  "note": null,
+  "originalTitle": "Mr. Gaga",
+  "englishTitle": "Mr. Gaga",
+  "russianTitle": null,
+  "originalLanguage": "he",
+  "year": 2015,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary",
+   "Biography"
+  ],
+  "countries": [
+   "Israel",
+   "Sweden",
+   "Germany",
+   "Netherlands"
+  ],
+  "directors": [
+   "Tomer Heymann"
+  ],
+  "cast": [
+   "Ohad Naharin",
+   "Tzofia Naharin",
+   "Eliav Naharin"
+  ],
+  "runtime": "100 min",
+  "imdbId": "tt3412684",
+  "imdbRating": 7.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWU4ODNlZDgtNjdjZi00MDY5LWJlZDUtYmFmMWFlYzU4MjM0XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Documentary about Israeli choreographer Ohad Naharin, creator of the Gaga movement language and head of the Batsheva Dance Company.",
+  "addedAt": "2026-10-31T11:53:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Mr gaga film - аня с коливинга"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt33071426",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "The Drama",
+  "englishTitle": "The Drama",
+  "russianTitle": "Драма",
+  "originalLanguage": "en",
+  "year": 2026,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Kristoffer Borgli"
+  ],
+  "cast": [
+   "Zendaya",
+   "Robert Pattinson",
+   "Alana Haim"
+  ],
+  "runtime": "105 min",
+  "imdbId": "tt33071426",
+  "imdbRating": 7.1,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcwOGZhYmItYTg3ZS00NjUwLWJiMmQtMjU5YjEwYWY0NmNkXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A24 romantic comedy-drama in which Zendaya and Robert Pattinson play an engaged couple whose wedding week takes an unexpected turn.",
+  "addedAt": "2026-10-31T11:54:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Драма с зендаей"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt9253284",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Шелымагина",
+  "note": null,
+  "originalTitle": "Andor",
+  "englishTitle": "Andor",
+  "russianTitle": "Андор",
+  "originalLanguage": "en",
+  "year": 2022,
+  "endYear": 2025,
+  "kind": "series",
+  "genres": [
+   "Adventure",
+   "Drama",
+   "Fantasy"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [],
+  "cast": [
+   "Diego Luna",
+   "Denise Gough",
+   "Stellan Skarsgård"
+  ],
+  "runtime": "48 min",
+  "imdbId": "tt9253284",
+  "imdbRating": 8.6,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "A grounded Star Wars spy thriller about how a thief named Cassian Andor becomes a rebel.",
+  "addedAt": "2026-10-31T11:55:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Andor минисериал от шелымагиной"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt13863968",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Coliving",
+  "note": null,
+  "originalTitle": "The Wisdom of Trauma",
+  "englishTitle": "The Wisdom of Trauma",
+  "russianTitle": "Мудрость травмы",
+  "originalLanguage": "en",
+  "year": 2021,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Maurizio Benazzo",
+   "Zaya Benazzo"
+  ],
+  "cast": [
+   "Russell Brand",
+   "James Doty",
+   "Tim Ferriss"
+  ],
+  "runtime": "87 min",
+  "imdbId": "tt13863968",
+  "imdbRating": 8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGE1MWVjMjUtOGE0Mi00NmExLWJmYTYtN2UyY2E0ZTYwMmZjXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Documentary following physician Gabor Maté and his ideas about how trauma shapes addiction, illness and society.",
+  "addedAt": "2026-10-31T11:56:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "The wisdom of trauma . Gabor mate. Coliving"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt28093628",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": "Coliving",
+  "note": null,
+  "originalTitle": "Common Side Effects",
+  "englishTitle": "Common Side Effects",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2024,
+  "endYear": null,
+  "kind": "series",
+  "genres": [
+   "Animation",
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [],
+  "cast": [
+   "Dave King",
+   "Emily Pendergast",
+   "Mike Judge"
+  ],
+  "runtime": "22 min",
+  "imdbId": "tt28093628",
+  "imdbRating": 8.5,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDMwOTFhMTUtYTYwOS00NDQwLTk1YTAtN2E2MzdiMWNkOWQ5XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Adult Swim animated thriller: two former classmates find a mushroom that could cure any disease — and powerful people want it buried.",
+  "addedAt": "2026-10-31T11:57:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Common side effects. Coliving"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt0186408",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Обыкновенное чудо",
+  "englishTitle": "An Ordinary Miracle",
+  "russianTitle": "Обыкновенное чудо",
+  "originalLanguage": "ru",
+  "year": 1979,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Comedy",
+   "Fantasy",
+   "Musical"
+  ],
+  "countries": [
+   "Soviet Union"
+  ],
+  "directors": [
+   "Mark Zakharov"
+  ],
+  "cast": [
+   "Oleg Yankovskiy",
+   "Irina Kupchenko",
+   "Evgeniy Leonov"
+  ],
+  "runtime": "137 min",
+  "imdbId": "tt0186408",
+  "imdbRating": 8,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjM5MjI1YzgtYWY5Ni00Yzk1LThjNmMtMDNlZGUyZjRiZDljXkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Mark Zakharov’s musical fairy tale: a wizard turns a bear into a young man, who will turn back into a bear if a princess kisses him.",
+  "addedAt": "2026-10-31T11:58:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "Обыкновенно чудо"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt45368240",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "You Can See Everything",
+  "englishTitle": "You Can See Everything",
+  "russianTitle": null,
+  "originalLanguage": "en",
+  "year": 2026,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary",
+   "Biography"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "directors": [
+   "Nathan Fielder",
+   "Lance Oppenheim"
+  ],
+  "cast": [
+   "Billy Evans",
+   "Nathan Fielder",
+   "Elizabeth Holmes"
+  ],
+  "runtime": "174 min",
+  "imdbId": "tt45368240",
+  "imdbRating": 7.9,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
+  "description": "Nathan Fielder and Lance Oppenheim’s hybrid documentary following Elizabeth Holmes in the months before she reported to prison.",
+  "addedAt": "2026-10-31T11:59:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "You can see everything"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ },
+ {
+  "id": "tt2125608",
+  "status": "watchlist",
+  "myRating": null,
+  "recommendedBy": null,
+  "note": null,
+  "originalTitle": "Searching for Sugar Man",
+  "englishTitle": "Searching for Sugar Man",
+  "russianTitle": "В поисках Сахарного Человека",
+  "originalLanguage": "en",
+  "year": 2012,
+  "endYear": null,
+  "kind": "movie",
+  "genres": [
+   "Documentary",
+   "Biography",
+   "Music"
+  ],
+  "countries": [
+   "Sweden",
+   "United Kingdom",
+   "Finland"
+  ],
+  "directors": [
+   "Malik Bendjelloul"
+  ],
+  "cast": [
+   "Rodriguez",
+   "Stephen 'Sugar' Segerman",
+   "Dennis Coffey"
+  ],
+  "runtime": "85 min",
+  "imdbId": "tt2125608",
+  "imdbRating": 8.2,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Nzc2NDUyN15BMl5BanBnXkFtZTcwNjQwMjc5Nw@@._V1_QL75_UX300_.jpg",
+  "description": "Two South African fans set out to learn what happened to Rodriguez, a forgotten Detroit singer who became a legend in their country.",
+  "addedAt": "2026-10-31T12:00:00.000Z",
+  "watchedAt": null,
+  "source": "import",
+  "sourceText": [
+   "В поисках Сахарного Человека"
+  ],
+  "needsReview": false,
+  "reviewNote": null,
+  "hidden": false
+ }
+]

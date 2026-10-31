@@ -1,0 +1,28 @@
+rules_version = '2';
+
+// Everyone can read the film list; only the owner can change it or read the AI settings.
+// Before publishing, replace OWNER_EMAIL with the Google account you sign in with
+// (Firebase console → Firestore → Rules). Keep the real address out of this public repo.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isOwner() {
+      return request.auth != null
+        && request.auth.token.email_verified == true
+        && request.auth.token.email in ['OWNER_EMAIL'];
+    }
+
+    match /films/{id} {
+      allow read: if true;
+      allow write: if isOwner();
+    }
+
+    match /meta/{id} {
+      allow read: if true;
+      allow write: if isOwner();
+    }
+
+    match /private/{id} {
+      allow read, write: if isOwner();
+    }
+  }
+}

@@ -1,0 +1,92 @@
+@import "tailwindcss";
+
+/* Semantic color tokens; values switch with the system light/dark setting. */
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-imdb: #f5c518;
+  --color-gold: var(--gold);
+  --color-gold-ink: #241703;
+  --color-good: var(--good);
+  --color-meh: var(--meh);
+  --color-bad: var(--bad);
+  --color-danger: var(--danger);
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
+    "Noto Sans CJK SC", "Noto Sans Hebrew", sans-serif;
+  --font-display: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+  --animate-fade: fade 160ms ease-out;
+  --animate-rise: rise 220ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+:root {
+  color-scheme: light;
+  --bg: #f6f4ef;
+  --surface: #ffffff;
+  --surface-2: #eeebe3;
+  --line: #e1ddd2;
+  --ink: #1c1b18;
+  --muted: #625e55;
+  --faint: #959084;
+  --accent: #b8650f;
+  --accent-ink: #ffffff;
+  --gold: #e9a93a;
+  --good: #3b8f5e;
+  --meh: #8b7d63;
+  --bad: #b5524a;
+  --danger: #c2413a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --bg: #0e0e11;
+    --surface: #17171c;
+    --surface-2: #212128;
+    --line: #2c2c35;
+    --ink: #f2f0ea;
+    --muted: #a7a39a;
+    --faint: #706c65;
+    --accent: #eaa543;
+    --accent-ink: #1b1305;
+    --gold: #eaa543;
+    --good: #3d9a65;
+    --meh: #7d725d;
+    --bad: #b0534b;
+    --danger: #e0574f;
+  }
+}
+
+@keyframes fade {
+  from { opacity: 0; }
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(12px); }
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Hide scrollbars on horizontally scrolling chip rows. */
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
