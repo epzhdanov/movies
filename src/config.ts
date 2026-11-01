@@ -9,7 +9,14 @@ export const SITE = {
 // These values are public identifiers and safe to commit; access is enforced by
 // firestore.rules. While this is null the site runs read-only from the built-in
 // library in src/data/films.seed.json and the sign-in button is hidden.
-export const firebaseConfig: FirebaseOptions | null = null;
+export const firebaseConfig: FirebaseOptions | null = {
+  apiKey: 'AIzaSyAL5ibthXPXCrPN0CWG7AjnXzjKJpUabOI',
+  authDomain: 'movies-ezhdanov.firebaseapp.com',
+  projectId: 'movies-ezhdanov',
+  storageBucket: 'movies-ezhdanov.firebasestorage.app',
+  messagingSenderId: '28693648990',
+  appId: '1:28693648990:web:2e9772499a8e98822dc6cf',
+};
 
 export const DEFAULT_MODEL = 'anthropic/claude-haiku-5.5';
 
