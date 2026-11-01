@@ -11,6 +11,7 @@ import { AddDialog } from './components/AddDialog';
 import { WatchedDialog } from './components/WatchedDialog';
 import { RateDialog } from './components/RateDialog';
 import { EditDialog } from './components/EditDialog';
+import { FixDialog } from './components/FixDialog';
 import { SettingsDialog } from './components/SettingsDialog';
 import { SignInDialog } from './components/SignInDialog';
 import { Button, Chip, Icon, Spinner, cx, fieldClass, useToast } from './components/ui';
@@ -19,10 +20,11 @@ type Tab = 'watched' | 'watchlist';
 const TAB_HASH: Record<Tab, string> = { watched: '#/watched', watchlist: '#/to-watch' };
 
 type DialogState =
-  | { type: 'add'; text?: string; status?: FilmStatus; replaceId?: string }
+  | { type: 'add'; text?: string; status?: FilmStatus }
   | { type: 'watched' }
   | { type: 'rate'; id: string }
   | { type: 'edit'; id: string }
+  | { type: 'fix'; id: string }
   | { type: 'settings' }
   | { type: 'signin' };
 
@@ -215,7 +217,6 @@ function Movies() {
     }
   }, [filmId, openedFilm, loading, tab]);
   const dialogFilm = dialog && 'id' in dialog ? films.find((f) => f.id === dialog.id) ?? null : null;
-  const replaceFilm = dialog?.type === 'add' && dialog.replaceId ? films.find((f) => f.id === dialog.replaceId) ?? null : null;
   const canEdit = isOwner && !needsImport;
   const otherCount = tab === 'watched' ? watchlistBase.length : watchedAll.length;
 
@@ -476,7 +477,7 @@ function Movies() {
           onClose={closeFilm}
           onRate={() => setDialog({ type: 'rate', id: openedFilm.id })}
           onEdit={() => setDialog({ type: 'edit', id: openedFilm.id })}
-          onFix={() => setDialog({ type: 'add', replaceId: openedFilm.id })}
+          onFix={() => setDialog({ type: 'fix', id: openedFilm.id })}
           notify={notify}
         />
       )}
@@ -484,8 +485,21 @@ function Movies() {
         <AddDialog
           initialText={dialog.text}
           initialStatus={dialog.status}
-          replace={replaceFilm}
           onClose={() => setDialog(null)}
+          onOpenSettings={() => setDialog({ type: 'settings' })}
+          notify={notify}
+        />
+      )}
+      {dialog?.type === 'fix' && dialogFilm && (
+        <FixDialog
+          film={dialogFilm}
+          onClose={() => setDialog(null)}
+          onDone={(f) => {
+            // The fix may change the film's id, so reopen it under the new one.
+            setDialog(null);
+            history.replaceState(null, '', `#/film/${encodeURIComponent(f.id)}`);
+            setFilmId(f.id);
+          }}
           onOpenSettings={() => setDialog({ type: 'settings' })}
           notify={notify}
         />

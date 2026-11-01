@@ -188,6 +188,12 @@ export function FilmDialog({
             )}
           </dl>
 
+          {isOwner && !film.needsReview && !film.hidden && (
+            <Button variant="ghost" size="sm" className="-ml-3 mt-2" onClick={onFix}>
+              <Icon.Sparkle /> Wrong film? Find the right one
+            </Button>
+          )}
+
           {isOwner && (film.needsReview || film.hidden) && (
             <div className="mt-4 rounded-2xl border border-danger/30 bg-danger/8 p-3.5">
               <div className="flex items-start gap-2 text-[14px] text-ink">

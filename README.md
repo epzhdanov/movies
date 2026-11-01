@@ -39,7 +39,11 @@ view usually costs one Firestore read (free tier: 50,000/day).
   The AI finds every film in it; you confirm, set who recommended it, and save.
 - **I watched…** — start typing; pick the film from your watchlist and tap a rating. Not in the list?
   *Find with AI* adds it straight to Watched with your rating.
-- **Needs review** (owner only) — matches the AI/import wasn't sure about. Open one → *It's correct* or *Fix with AI*.
+- **Wrong film?** (owner only) — open any film → *Wrong film? Find the right one*, add a hint ("the French one",
+  a year, an actor) and the AI suggests up to five films, each checked on IMDb. The one you pick replaces the match
+  and keeps your rating, notes and who recommended it; if it's already in the list, the two entries are merged.
+- **Needs review** (owner only) — matches the AI/import wasn't sure about. Open one → *It's correct* or *Fix with AI*
+  (the same option search).
 - **Settings** — OpenRouter key and model, web search on/off, refresh all IMDb ratings, download a JSON backup.
 
 Titles follow one rule: Russian and English films show their original title; anything else shows

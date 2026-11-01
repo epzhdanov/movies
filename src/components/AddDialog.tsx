@@ -27,24 +27,21 @@ async function imageToDataUrl(file: File): Promise<string> {
 export function AddDialog({
   initialText = '',
   initialStatus = 'watchlist',
-  replace = null,
   onClose,
   onOpenSettings,
   notify,
 }: {
   initialText?: string;
   initialStatus?: FilmStatus;
-  /** "Fix with AI": the result replaces this film, keeping my rating and notes. */
-  replace?: Film | null;
   onClose: () => void;
   onOpenSettings: () => void;
   notify: (msg: string, tone?: 'ok' | 'error') => void;
 }) {
   const { films, save } = useLibrary();
   const { settings } = useSession();
-  const [text, setText] = useState(initialText || (replace ? replace.sourceText.join(' / ') || replace.originalTitle : ''));
+  const [text, setText] = useState(initialText);
   const [image, setImage] = useState<string | null>(null);
-  const [status, setStatus] = useState<FilmStatus>(replace?.status ?? initialStatus);
+  const [status, setStatus] = useState<FilmStatus>(initialStatus);
   const [rating, setRating] = useState<number | null>(null);
   const [recommendedBy, setRecommendedBy] = useState('');
   const [phase, setPhase] = useState<'input' | 'thinking' | 'review' | 'saving'>('input');
@@ -84,11 +81,7 @@ export function AddDialog({
   useEffect(() => () => abort.current?.abort(), []);
 
   function existingFor(film: Film): Film | null {
-    return (
-      films.find(
-        (f) => f.id !== replace?.id && ((film.imdbId && f.imdbId === film.imdbId) || f.id === film.id),
-      ) ?? null
-    );
+    return films.find((f) => (film.imdbId && f.imdbId === film.imdbId) || f.id === film.id) ?? null;
   }
 
   async function find() {
@@ -97,10 +90,7 @@ export function AddDialog({
     const ctrl = new AbortController();
     abort.current = ctrl;
     try {
-      const hint = replace
-        ? `This is a correction: it was wrongly matched to "${replace.originalTitle}" (${replace.year ?? '?'}). Find the film actually meant.`
-        : undefined;
-      const found = await identifyFilms({ text, image, hint }, settings, ctrl.signal);
+      const found = await identifyFilms({ text, image }, settings, ctrl.signal);
       if (!found.length) throw new AiError('No film recognised. Add a detail (year, director, an actor) and try again.');
       const drafts = await Promise.all(
         found.slice(0, 12).map((ai) =>
@@ -111,7 +101,7 @@ export function AddDialog({
         drafts.map((d) => {
           const existing = existingFor(d.film);
           const upgrade = existing?.status === 'watchlist' && status === 'watched';
-          return { ...d, existing, include: replace ? true : !existing || upgrade };
+          return { ...d, existing, include: !existing || upgrade };
         }),
       );
       setPhase('review');
@@ -131,47 +121,23 @@ export function AddDialog({
     if (!chosen.length) return;
     setPhase('saving');
     const now = new Date().toISOString();
-    const out: Film[] = [];
-    const remove: string[] = [];
-    chosen.forEach((c, i) => {
-      let film = c.film;
-      if (replace && i === 0) {
-        // Keep everything I entered myself; take identification + metadata from the new match.
-        const target = c.existing ?? film;
-        film = {
-          ...film,
-          id: target.id,
-          status: replace.status,
-          myRating: replace.myRating,
-          watchedAt: replace.watchedAt,
-          recommendedBy: replace.recommendedBy ?? film.recommendedBy,
-          note: replace.note ?? film.note,
-          addedAt: replace.addedAt,
-          source: replace.source,
-          sourceText: replace.sourceText,
-          needsReview: !c.matched,
-          hidden: false,
-        };
-        if (target.id !== replace.id) remove.push(replace.id);
-      } else if (c.existing) {
-        film = {
-          ...c.existing,
-          status: film.status,
-          myRating: film.myRating ?? c.existing.myRating,
-          watchedAt: film.status === 'watched' ? (c.existing.watchedAt ?? now) : null,
-        };
-      }
-      out.push(film);
-    });
+    const out = chosen.map(({ film, existing }) =>
+      existing
+        ? {
+            ...existing,
+            status: film.status,
+            myRating: film.myRating ?? existing.myRating,
+            watchedAt: film.status === 'watched' ? (existing.watchedAt ?? now) : null,
+          }
+        : film,
+    );
     try {
-      await save(out, remove);
+      await save(out);
       const name = titles(out[0]).main;
       notify(
-        replace
-          ? `Fixed: ${name}`
-          : out.length === 1
-            ? `${status === 'watched' ? 'Added to Watched' : 'Added'}: ${name}`
-            : `Added ${out.length} films`,
+        out.length === 1
+          ? `${status === 'watched' ? 'Added to Watched' : 'Added'}: ${name}`
+          : `Added ${out.length} films`,
       );
       onClose();
     } catch (e) {
@@ -234,7 +200,7 @@ export function AddDialog({
       <Modal
         wide
         onClose={onClose}
-        title={replace ? 'Is this the right film?' : candidates.length === 1 ? 'Found it' : `Found ${candidates.length} films`}
+        title={candidates.length === 1 ? 'Found it' : `Found ${candidates.length} films`}
         footer={
           <>
             <Button variant="ghost" className="mr-auto" onClick={() => setPhase('input')} disabled={phase === 'saving'}>
@@ -242,7 +208,7 @@ export function AddDialog({
             </Button>
             <Button variant="primary" onClick={saveAll} disabled={!chosenCount || phase === 'saving'}>
               {phase === 'saving' ? <Spinner /> : <Icon.Check />}
-              {replace ? 'Replace' : status === 'watched' ? 'Save to Watched' : chosenCount > 1 ? `Add ${chosenCount} films` : 'Add to list'}
+              {status === 'watched' ? 'Save to Watched' : chosenCount > 1 ? `Add ${chosenCount} films` : 'Add to list'}
             </Button>
           </>
         }
@@ -254,7 +220,7 @@ export function AddDialog({
             const kind = kindLabel(c.film.kind);
             const sameStatus = c.existing && c.existing.status === c.film.status;
             const alreadySeen = c.existing?.status === 'watched' && c.film.status === 'watchlist';
-            const locked = !replace && Boolean(sameStatus || alreadySeen);
+            const locked = Boolean(sameStatus || alreadySeen);
             return (
               <li
                 key={c.film.id + i}
@@ -313,7 +279,7 @@ export function AddDialog({
                     </div>
                   </div>
                 </div>
-                {c.include && !replace && (
+                {c.include && (
                   <div className="mt-3 space-y-3 border-t border-line pt-3">
                     {c.film.status === 'watched' ? (
                       <div>
@@ -354,10 +320,10 @@ export function AddDialog({
   return (
     <Modal
       onClose={onClose}
-      title={replace ? `Fix “${titles(replace).main}”` : status === 'watched' ? 'I watched…' : 'Add a film'}
+      title={status === 'watched' ? 'I watched…' : 'Add a film'}
       footer={
         <>
-          {error && !thinking && text.trim() && !replace && (
+          {error && !thinking && text.trim() && (
             <Button variant="ghost" size="sm" className="mr-auto" onClick={savePlain}>
               Save title without AI
             </Button>
@@ -375,9 +341,6 @@ export function AddDialog({
       }
     >
       <div className="space-y-4">
-        {replace?.reviewNote && (
-          <p className="rounded-xl bg-surface-2 px-3 py-2 text-[13px] text-muted">{replace.reviewNote}</p>
-        )}
         {noKey && (
           <div className="flex items-center gap-3 rounded-xl border border-accent/40 bg-accent/8 px-3 py-2.5 text-[13.5px]">
             <span className="flex-1">Add your OpenRouter API key to use AI.</span>
@@ -444,40 +407,38 @@ export function AddDialog({
           />
         </div>
 
-        {!replace && (
-          <div className="space-y-3">
-            <Segmented
-              value={status}
-              onChange={setStatus}
-              options={[
-                { value: 'watchlist', label: 'Want to watch' },
-                { value: 'watched', label: 'Already watched' },
-              ]}
-            />
-            {status === 'watched' ? (
-              <div>
-                <Label hint="optional — you can rate later">Your rating</Label>
-                <RatingPicker value={rating} onPick={(r) => setRating(rating === r ? null : r)} />
-              </div>
-            ) : (
-              <div>
-                <Label hint="optional">Recommended by</Label>
-                <input
-                  className={inputClass}
-                  list="recommenders-input"
-                  value={recommendedBy}
-                  onChange={(e) => setRecommendedBy(e.target.value)}
-                  placeholder="Who told you about it?"
-                />
-                <datalist id="recommenders-input">
-                  {recommenders.map((r) => (
-                    <option key={r} value={r} />
-                  ))}
-                </datalist>
-              </div>
-            )}
-          </div>
-        )}
+        <div className="space-y-3">
+          <Segmented
+            value={status}
+            onChange={setStatus}
+            options={[
+              { value: 'watchlist', label: 'Want to watch' },
+              { value: 'watched', label: 'Already watched' },
+            ]}
+          />
+          {status === 'watched' ? (
+            <div>
+              <Label hint="optional — you can rate later">Your rating</Label>
+              <RatingPicker value={rating} onPick={(r) => setRating(rating === r ? null : r)} />
+            </div>
+          ) : (
+            <div>
+              <Label hint="optional">Recommended by</Label>
+              <input
+                className={inputClass}
+                list="recommenders-input"
+                value={recommendedBy}
+                onChange={(e) => setRecommendedBy(e.target.value)}
+                placeholder="Who told you about it?"
+              />
+              <datalist id="recommenders-input">
+                {recommenders.map((r) => (
+                  <option key={r} value={r} />
+                ))}
+              </datalist>
+            </div>
+          )}
+        </div>
 
         {thinking && (
           <p className="flex items-center gap-2 text-[13px] text-muted">
